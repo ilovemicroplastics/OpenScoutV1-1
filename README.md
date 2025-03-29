@@ -7,10 +7,10 @@ OpenScout is a low-cost open source hardware and software mobile robot that can 
 
 OpenScout is made of standard sizes aluminium extrusions making it very modular. That means its chassis design depends on the use case and the needs of the user. The robot provides the bare minimum (wizard-of-oz tele-operation and software for controlled differential drive) and future versions will introduce more chassis configurations, ROS/ROS2 integration and gazebo urdf files.
 
-<p align="center" width="100%">
-    <img width="45%" height="350" src="Documentation/Images/agriscout_on_concrete.png">
-    <img width="45%" height="350" src="Documentation/Images/agriscout_incline.png"> 
-</p>
+<> <p align="center" width="100%">
+<>   <img width="45%" height="350" src="Documentation/Images/agriscout_on_concrete.png">
+<>    <img width="45%" height="350" src="Documentation/Images/agriscout_incline.png"> 
+<> </p>
 
 ## Demonstration
 
