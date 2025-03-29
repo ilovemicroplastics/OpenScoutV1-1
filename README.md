@@ -7,15 +7,6 @@ OpenScout is a low-cost open source hardware and software mobile robot that can 
 
 OpenScout is made of standard sizes aluminium extrusions making it very modular. That means its chassis design depends on the use case and the needs of the user. The robot provides the bare minimum (wizard-of-oz tele-operation and software for controlled differential drive) and future versions will introduce more chassis configurations, ROS/ROS2 integration and gazebo urdf files.
 
-## Demonstration
-
-Demonstrations showing a variety of different mobility aspects can be found in the [Demonstrations](Demonstrations) directory. The below demonstration shows OpenScout with a 'lazy Susan' revolute hinge successfully traversing uneven terrain with circa 40 mm divots.
-
-https://user-images.githubusercontent.com/44243266/164105180-839fc627-df63-4446-af7d-90f431a007b9.mp4
-
-## HackaDay
-This project was covered in a [Hackaday article](https://hackaday.com/2022/09/26/robotic-platform-is-open-sourced-and-user-friendly/) by Bryan Cockfield, noting OpenScout as a straightforward and easy build without many specialized tools; providing a really useful platform to expand upon.
-
 ## Getting started
 Materials used:
 The robot consists of 200mm & 300mm 20x20 aluminium extrusions connected with 90 degree angle joints so the width, length and its height can be highly adjustable. We suggest also the [90:1 12V CQrobot](https://www.amazon.co.uk/CQRobot-90-Gearmotor-oz-Diameter/dp/B0887RR8SH) motor with encoder, as 4 of them provide enough traction to carry big payloads. Finally, an Arduino Mega is necessary as it provides enough interrupt pins for the RF receiver and the motor encoders.
