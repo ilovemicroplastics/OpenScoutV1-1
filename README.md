@@ -1,34 +1,4 @@
-# OpenScout Changes 23/01/2025
-
-https://github.com/user-attachments/assets/b3fbb942-297d-4cb1-b123-8d51ed27b225
-
-See Demonstrations folder for more videos. 
-
-### Attempted to replace Arduino with ESP32.
-It was found to not have enough pins, therefore used arudino ATMEGA and ESP32.
-
-ATMEGA controlls motors and motor drivers.
-ESP32 controls MQTT messages, and translates them into motor control commands.
-
-### Battery adjustments
-Increased the capacity of the secondary battery (that powers the arduino ATMEGA and ESP32)
-
-### Control software
-MQTT communication and Twist to JSON code has been tested by modulating LED intensities to prove core concept,
-however, for use with a ATMEGA a wifi shield was needed for testing on OpenScout, works well with the ESP32 but lacks enough pins to control the robot
-
-Implemented radio receiver which converts radio commands into throttle and angular values instead.
-
-Replaced simple_pid.ino with refined_pid.ino .
-
-### Added simulation software
-A simulated version of the openscout was created.
-Implemented using Gazebo Harmonic and ROS2.
-
-### Changes to documentation.
-Updated demonstrations with changes.
-
-# OpenScout
+# OpenScout v2
 
 [![DOI](https://zenodo.org/badge/477675491.svg)](https://zenodo.org/doi/10.5281/zenodo.10263675)
 
