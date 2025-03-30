@@ -1,6 +1,8 @@
 ### build
 cd ~/ros2_ws/
+
 colcon build --symlink-install
+
 ros2 run esp32_mqtt_interface mqtt_publisher
 
 ### use
