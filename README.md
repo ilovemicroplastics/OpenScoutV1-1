@@ -7,12 +7,6 @@ OpenScout is made of standard sizes aluminium extrusions making it very modular.
 
 https://github.com/user-attachments/assets/4c83e099-2132-454d-ae23-d050e3298f1a
 
-## Getting started
-Materials used:
-The robot consists of 200mm & 300mm 20x20 aluminium extrusions connected with 90 degree angle joints so the width, length and its height can be highly adjustable. We suggest also the [90:1 12V CQrobot](https://www.amazon.co.uk/CQRobot-90-Gearmotor-oz-Diameter/dp/B0887RR8SH) motor with encoder, as 4 of them provide enough traction to carry big payloads. A ESP32 Ch340c Type-C, ESP32-WROOM-32 devkitc, or simlar 30 pin WiFi enabled ESP32 board should suffice. More details in the MicroController section
-
-The full bill of materials depends on each configuration and for more details please refer to the tutorials.
-
 ## Assembly Tutorial:
 Assembly tutorial for the OpenScout with a 'Lazy Susan' revolute hinge is available at the following link:
 [OpenScout robot with 'Lazy Susan' revolute hinge](Hardware/robot_with_lazy_susan_bearing/README.md)
