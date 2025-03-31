@@ -43,7 +43,6 @@ For the electronics:
 | Buck converter | 1 | E3 | [Link](https://amz.run/5TFJ) |
 | Arduino Mega | 1 | E4 | [Link](https://amz.run/5TFL) |
 | L298N Motor drivers | 2 | E5 | [Link](https://amz.run/5TFN) |
-| Radio transmitter-receiver | 1 | E6 | [Link](https://amz.run/5TFO) |
 | Breadboards | - | - | - |
 | Wires | - | - | - |
 
