@@ -93,6 +93,7 @@ Parts:
 Additionally, a printable step-by-step lego/ikea-styled tutorial is available as an alternative. [Printable Assembly Manual](../../Documentation/CAD_Files/Instruction_Manual/InstructionManual.pdf). All associated CAD files and schematics are in the Documentation directory. Tip: GitHub doesn't load all pages by default, so it may be helpful to download the PDF.
 
 Then Follow:
+1. [Printable Assembly Manual](../../Documentation/CAD_Files/Instruction_Manual/InstructionManual.pdf)
 2. [Din rail](./din_rail.md)
 3. [Adding the electronics](./circuit_assembly_instructions.md)
 4. [Add the controller software](../../Software/Controller/README.md)
