@@ -1,7 +1,7 @@
 # OpenScout v2
 
 ## An Improved Open Source Hardware Mobile Robot
-OpenScout v2 is a low-cost open source hardware and software mobile robot that can be used for both indoor and outdoor tasks, with up to 15kg of payload mounted. This project builds on the original [OpenScout](https://zenodo.org/doi/10.5281/zenodo.10263675) by reducing it's complexity, integrating it with ROS2, providing a WiFi and BlueTooth interface, as well as introducing a Gazebo simulation for testing. The robot is designed to be easily and cheaply (350USD) buildable and modifiable by non-specialists, and to function as a reproducible physical platform for robotics research and real-world tasks, replacing current proprietary options. Example applications include last mile and factory floor delivery, site survey and monitoring, and agricultural crop operations.
+OpenScout v2 is a low-cost OSH mobile robot that can be used for both indoor and outdoor tasks, with up to 15kg of payload mounted. This project builds on the original [OpenScout](https://zenodo.org/doi/10.5281/zenodo.10263675) by reducing it's complexity, integrating it with ROS2, providing a WiFi and BlueTooth interface, as well as introducing a Gazebo simulation for testing. The robot is designed to be easily and cheaply (350USD) buildable and modifiable by non-specialists, and to function as a reproducible physical platform for robotics research and real-world tasks, replacing current proprietary options. Example applications include last mile and factory floor delivery, site survey and monitoring, and agricultural crop operations.
 
 OpenScout is made of standard sizes aluminium extrusions making it very modular. That means its chassis design can easily be varied based on the use case and the needs of the user.
 
