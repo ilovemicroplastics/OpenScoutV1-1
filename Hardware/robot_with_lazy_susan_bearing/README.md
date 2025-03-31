@@ -71,10 +71,12 @@ Bolts & nuts:
 
 (**NOTE**: The links are provided only as examples and there is no affiliation with the suppliers. The reader is advised to look for cheaper alternatives if possible, for example ESP32s cost a few USD on aliexpress. The motor brackets are provided in the CQRobot motor package, thus they are not in the bill of materials. Please keep in mind that alternative motors, brackets or components might require different bolts or additional parts.)
 
-## Assembly instructions
-This tutorial consists of 7 parts for constructing the robot platform with the hinge in the middle. It is necessary to be followed in the given order. After finishing the assembly, the robot is ready to be flashed with firmware!
+## Assembly instructions.
 
-Additionally, a printable step-by-step lego/ikea-styled tutorial is available as an alternative. [Printable Assembly Manual](../../Documentation/CAD_Files/Instruction_Manual/InstructionManual.pdf). All associated CAD files and schematics are in the Documentation directory. Tip: GitHub doesn't load all pages by default, so it may be helpful to download the PDF.
+Pick either route A or route B.
+
+## Route A
+This tutorial consists of 7 parts for constructing the robot platform with the hinge in the middle. It is necessary to be followed in the given order. After finishing the assembly, the robot is ready to be flashed with firmware!
 
 Parts:
 1. [Front compartment](./front_compartment.md)
@@ -84,12 +86,16 @@ Parts:
 5. [Din rail](./din_rail.md)
 6. [Attaching the motors and the wheels](./motors_and_wheels.md)
 7. [Adding the electronics](./circuit_assembly_instructions.md)
+8. [Add the controller software](../../Software/Controller/README.md)
 
-## Adding the software
+## Route B
 
-Final Step.
+Additionally, a printable step-by-step lego/ikea-styled tutorial is available as an alternative. [Printable Assembly Manual](../../Documentation/CAD_Files/Instruction_Manual/InstructionManual.pdf). All associated CAD files and schematics are in the Documentation directory. Tip: GitHub doesn't load all pages by default, so it may be helpful to download the PDF.
 
-[Add the controller software](../../Software/Controller/README.md)
+Then Follow:
+2. [Din rail](./din_rail.md)
+3. [Adding the electronics](./circuit_assembly_instructions.md)
+4. [Add the controller software](../../Software/Controller/README.md)
 
 ## Speed PID controller calibration
 
