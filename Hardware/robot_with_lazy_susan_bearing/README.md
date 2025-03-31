@@ -74,7 +74,7 @@ Bolts & nuts:
 ## Assembly instructions
 This tutorial consists of 7 parts for constructing the robot platform with the hinge in the middle. It is necessary to be followed in the given order. After finishing the assembly, the robot is ready to be flashed with firmware!
 
-Additionally, a printable step-by-step lego/ikea-styled tutorial is available as an alternative. [Printable Assembly Manual](../../Documentation/CAD_Files/InstructionManual/InstructionManual.pdf). All associated CAD files and schematics are in the Documentation directory.
+Additionally, a printable step-by-step lego/ikea-styled tutorial is available as an alternative. [Printable Assembly Manual](../../Documentation/CAD_Files/Instruction_Manual/InstructionManual.pdf). All associated CAD files and schematics are in the Documentation directory.
 
 Parts:
 1. [Front compartment](./front_compartment.md)
