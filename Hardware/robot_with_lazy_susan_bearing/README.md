@@ -86,6 +86,9 @@ Parts:
 7. [Adding the electronics](./circuit_assembly_instructions.md)
 
 ## Adding the software
+
+Final Step.
+
 [Add the controller software](../../Software/Controller/README.md)
 
 ## Speed PID controller calibration
