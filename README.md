@@ -1,5 +1,10 @@
 # OpenScout v2
 
+<div align="center">
+  [Video Link](https://github.com/user-attachments/assets/4c83e099-2132-454d-ae23-d050e3298f1a)
+</div>
+
+
 https://github.com/user-attachments/assets/4c83e099-2132-454d-ae23-d050e3298f1a
 
 ## An Improved Open Source Hardware Mobile Robot
