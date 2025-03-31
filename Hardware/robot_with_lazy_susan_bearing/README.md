@@ -41,7 +41,7 @@ For the electronics:
 | 12V Lead Acid battery | 1 | E1 | [Link](https://uk.rs-online.com/web/p/lead-acid-batteries/0597835) |
 | 10A circuit breaker | 1 | E2 | [Link](https://amz.run/5TFI) |
 | Buck converter | 1 | E3 | [Link](https://amz.run/5TFJ) |
-| Arduino Mega | 1 | E4 | [Link](https://amz.run/5TFL) |
+| ESP32 | 1 | E4 | [Link](https://amz.run/9w90) |
 | L298N Motor drivers | 2 | E5 | [Link](https://amz.run/5TFN) |
 | Breadboards | - | - | - |
 | Wires | - | - | - |
