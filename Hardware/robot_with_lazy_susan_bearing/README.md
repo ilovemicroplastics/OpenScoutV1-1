@@ -77,6 +77,8 @@ Pick either route A or route B.
 
 Route A uses real pictures and text instructions, route B follows ikea/lego styled build instructions for the chassis.
 
+For advanced users who made significant changes to the robot, follow PID calibration at the end.
+
 ## Route A
 This tutorial consists of 8 parts for constructing the robot platform with the hinge in the middle. It is necessary to be followed in the given order. After finishing the assembly, the robot is ready to be flashed with firmware!
 
@@ -100,7 +102,7 @@ Tip: GitHub doesn't load all pages by default, so it may be helpful to download 
 3. [Adding the electronics](./circuit_assembly_instructions.md)
 4. [Add the controller software](../../Software/Controller/README.md)
 
-## PID controller calibration
+## PID controller calibration (Advanced users)
 
 This step is only neccesary if you made significant adjustments to the OpenScout (e.g. length changes)
 
