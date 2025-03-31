@@ -106,4 +106,4 @@ Tip: GitHub doesn't load all pages by default, so it may be helpful to download 
 
 This step is only neccesary if you made significant adjustments to the OpenScout (e.g. length changes)
 
-[Speed PID controller calibration](./pid_calibration.md)
+[PID controller calibration](./pid_calibration.md)
