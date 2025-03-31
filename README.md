@@ -18,7 +18,7 @@ Assembly tutorial for the OpenScout with a 'Lazy Susan' revolute hinge is availa
 [OpenScout robot with 'Lazy Susan' revolute hinge](Hardware/robot_with_lazy_susan_bearing/README.md)
 
 ## How to contribute
-While we try to keep this project open source you are free to make your own choice of materials and adapt the robot to your needs. However, we kindly request you to stick to the suggested 200mm & 300mm 20x20 aluminum extrusions, to allow other users disassemble their current configuration and try out yours! If you use OpenScout for your project, please open a PR with your configuration and tutorials. 
+While we try to keep this project open source you are free to make your own choice of materials and adapt the robot to your needs. However, we kindly request you to stick to the suggested 200mm & 300mm 20x20 aluminum extrusions, to allow others to disassemble their current configuration and try out yours! If you use OpenScout for your project, please open a PR with your configuration and tutorials. 
 
 The general process of contributing on GitHub is widely documented however the outline process is below:
 
@@ -31,7 +31,7 @@ The general process of contributing on GitHub is widely documented however the o
     git clone https://github.com/ilovemicroplastics/OpenScoutV2
     ```
 
-1. Update the project and then make a pull request!
+1. Update the project and then make a pull request.
 
 ## License
 
