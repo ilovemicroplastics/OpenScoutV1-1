@@ -86,7 +86,7 @@ Parts:
 7. [Adding the electronics](./circuit_assembly_instructions.md)
 
 ## Adding the software
-[Add the PID controller to the Arduino](../../Software/README.md)
+[Add the PID controller to the Arduino](../../Software/Controller/README.md)
 
 ## Speed PID controller calibration
 
