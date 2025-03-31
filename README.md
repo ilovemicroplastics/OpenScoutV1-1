@@ -1,15 +1,15 @@
 # OpenScout v2
 
 ## An Improved Open Source Hardware Mobile Robot
-OpenScout v2 is a low-cost open source hardware and software mobile robot that can be used for both indoor and outdoor tasks, transporting up to 15kg of payload. This project builds on the original [OpenScout](https://zenodo.org/doi/10.5281/zenodo.10263675) by reducing it's complexity, integrating it with ROS2, providing a WiFi and BlueTooth interface, as well as introducing a Gazebo simulation for testing. The robot is designed to be easily and cheaply (350USD) buildable and modifiable by non-specialists, and to function as a standard physical platform for robotics research and real-world tasks, replacing current proprietary options. Example applications include last mile and factory floor delivery, site survey and monitoring, and agricultural crop operations.
+OpenScout v2 is a low-cost open source hardware and software mobile robot that can be used for both indoor and outdoor tasks, transporting up to 15kg of payload. This project builds on the original [OpenScout](https://zenodo.org/doi/10.5281/zenodo.10263675) by reducing it's complexity, integrating it with ROS2, providing a WiFi and BlueTooth interface, as well as introducing a Gazebo simulation for testing. The robot is designed to be easily and cheaply (350USD) buildable and modifiable by non-specialists, and to function as a reproducible physical platform for robotics research and real-world tasks, replacing current proprietary options. Example applications include last mile and factory floor delivery, site survey and monitoring, and agricultural crop operations.
 
-OpenScout is made of standard sizes aluminium extrusions making it very modular. That means its chassis design depends on the use case and the needs of the user.
+OpenScout is made of standard sizes aluminium extrusions making it very modular. That means its chassis design can easily be varied based on the use case and the needs of the user.
 
 https://github.com/user-attachments/assets/4c83e099-2132-454d-ae23-d050e3298f1a
 
 ## Getting started
 Materials used:
-The robot consists of 200mm & 300mm 20x20 aluminium extrusions connected with 90 degree angle joints so the width, length and its height can be highly adjustable. We suggest also the [90:1 12V CQrobot](https://www.amazon.co.uk/CQRobot-90-Gearmotor-oz-Diameter/dp/B0887RR8SH) motor with encoder, as 4 of them provide enough traction to carry big payloads. A ESP32-WROOM-32 devkitc, or simlar 30 pin board should suffice.
+The robot consists of 200mm & 300mm 20x20 aluminium extrusions connected with 90 degree angle joints so the width, length and its height can be highly adjustable. We suggest also the [90:1 12V CQrobot](https://www.amazon.co.uk/CQRobot-90-Gearmotor-oz-Diameter/dp/B0887RR8SH) motor with encoder, as 4 of them provide enough traction to carry big payloads. A ESP32 Ch340c Type-C, ESP32-WROOM-32 devkitc, or simlar 30 pin WiFi enabled ESP32 board should suffice. More details in the MicroController section
 
 The full bill of materials depends on each configuration and for more details please refer to the tutorials.
 
