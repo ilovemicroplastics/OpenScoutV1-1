@@ -77,7 +77,7 @@ Pick either route A or route B.
 
 Route A uses real pictures and text instructions, route B follows ikea/lego styled build instructions for the chassis.
 
-For advanced users who made significant changes to the robot, follow PID calibration at the end.
+_For advanced users who made significant changes to the robot, follow PID calibration at the end._
 
 ## Route A
 This tutorial consists of 8 parts for constructing the robot platform with the hinge in the middle. It is necessary to be followed in the given order. After finishing the assembly, the robot is ready to be flashed with firmware!
