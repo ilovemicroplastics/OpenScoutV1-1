@@ -73,12 +73,11 @@ Bolts & nuts:
 
 ## Assembly instructions.
 
-Pick either route A or route B.
+Pick either route A or route B. A is 
 
 ## Route A
-This tutorial consists of 7 parts for constructing the robot platform with the hinge in the middle. It is necessary to be followed in the given order. After finishing the assembly, the robot is ready to be flashed with firmware!
+This tutorial consists of 8 parts for constructing the robot platform with the hinge in the middle. It is necessary to be followed in the given order. After finishing the assembly, the robot is ready to be flashed with firmware!
 
-Parts:
 1. [Front compartment](./front_compartment.md)
 2. [Back compartment](./back_compartment.md)
 3. [Connecting the two compartments with the hinge](./hinge.md)
@@ -90,15 +89,16 @@ Parts:
 
 ## Route B
 
-Additionally, a printable step-by-step lego/ikea-styled tutorial is available as an alternative. [Printable Assembly Manual](../../Documentation/CAD_Files/Instruction_Manual/InstructionManual.pdf). All associated CAD files and schematics are in the Documentation directory. Tip: GitHub doesn't load all pages by default, so it may be helpful to download the PDF.
+This route begins uses the PDF assembly instructions instead, but after finishing the electronics installation instructions have to be followed afterwards.
 
-Then Follow:
+Tip: GitHub doesn't load all pages by default, so it may be helpful to download the PDF.
+
 1. [Printable Assembly Manual (PDF)](../../Documentation/CAD_Files/Instruction_Manual/InstructionManual.pdf)
 2. [Din rail](./din_rail.md)
 3. [Adding the electronics](./circuit_assembly_instructions.md)
 4. [Add the controller software](../../Software/Controller/README.md)
 
-## Speed PID controller calibration
+## PID controller calibration
 
 This step is only neccesary if you made significant adjustments to the OpenScout (e.g. length changes)
 
