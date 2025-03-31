@@ -17,8 +17,6 @@ The full bill of materials depends on each configuration and for more details pl
 Assembly tutorial for the OpenScout with a 'Lazy Susan' revolute hinge is available at the following link:
 [OpenScout robot with 'Lazy Susan' revolute hinge](Hardware/robot_with_lazy_susan_bearing/README.md)
 
-Additionally, a printable step-by-step lego/ikea-styled tutorial is available as an alternative. [Assembly Manual](Documentation/CAD_Files/Instruction_Manual/InstructionManual.pdf). All associated CAD files and schematics are in the [Documentation](Documentation) directory.
-
 ## How to contribute
 While we try to keep this project open source you are free to make your own choice of materials and adapt the robot to your needs. However, we kindly request you to stick to the suggested 200mm & 300mm 20x20 aluminum extrusions, to allow other users disassemble their current configuration and try out yours! If you use OpenScout for your project, please open a PR with your configuration and tutorials. 
 
