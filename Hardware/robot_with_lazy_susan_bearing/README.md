@@ -89,4 +89,7 @@ Parts:
 [Add the PID controller to the Arduino](../../Software/README.md)
 
 ## Speed PID controller calibration
+
+This step is only neccesary if you made significant adjustments to the OpenScout (e.g. length changes)
+
 [Speed PID controller calibration](./pid_calibration.md)
