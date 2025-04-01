@@ -60,7 +60,7 @@ One the other hand, the wheels selection wasn't very sophisticated, and soon the
 5. Fit the wheels on the shafts using the (S4.30) screws. If the screw does not fully screw on the (M4) hex coupler, use a (N1) hex nut as spacer.
 
 <p float="center">
-  <img src="../../Documentation/Images/robot_chassis_complete_2.jpeg" title="Mounting the wheels on the shafts." width="600"/>
+  <img src="../../Documentation/Images/robot_chassis_complete.jpeg" title="Mounting the wheels on the shafts." width="600"/>
 </p>
 
 ## What's next?
