@@ -30,3 +30,6 @@
 8. Open a new bash terminal.
 9. This command will move forwards `ros2 topic pub /cmd_vel geometry_msgs/msg/Twist "{linear: {x: 1.0}, angular: {z: 0.0}}"`
 10. This command will turn `ros2 topic pub /cmd_vel geometry_msgs/msg/Twist "{linear: {x: 0.0}, angular: {z: 1.0}}"`
+
+- These interfaces are functional, however improvements and refinement will be conducted time permitting.
+- Community contributions are very welcome.
