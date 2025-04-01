@@ -22,7 +22,7 @@
 ### Option B: Flash MQTT controller
 1. Open the Arduino IDE and load in the `OpenScout_control_MQTT.ino` file (`File -> Open -> select_file`).
 2. Upload the sketch by pressing the upload button.
-3. Download ros2_ws into the home folder, on a (likely ubuntu noble) machine running ROS2 Jazzy. (If you know what you are doing, feel free to deviate at this point.)
+3. Download [ros2_ws](./ros2_ws) into the home folder, on a (likely ubuntu noble) machine running ROS2 Jazzy. (If you know what you are doing, feel free to deviate at this point.)
 4. Open a bash terminal.
 5. `cd ~/ros2_ws/`
 6. `colcon build --symlink-install`
