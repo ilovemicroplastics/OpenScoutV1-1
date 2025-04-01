@@ -28,4 +28,5 @@
 6. `colcon build --symlink-install`
 7. `ros2 run esp32_mqtt_interface mqtt_publisher`
 8. Open a new bash terminal.
-9. `ros2 topic pub /cmd_vel geometry_msgs/msg/Twist "{linear: {x: 1.0}, angular: {z: 0.0}}"`
+9. This command will move forwards `ros2 topic pub /cmd_vel geometry_msgs/msg/Twist "{linear: {x: 1.0}, angular: {z: 0.0}}"`
+10. This command will turn `ros2 topic pub /cmd_vel geometry_msgs/msg/Twist "{linear: {x: 0.0}, angular: {z: 1.0}}"`
