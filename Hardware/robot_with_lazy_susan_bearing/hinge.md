@@ -5,7 +5,7 @@
 ### Bill of materials:
 
 | Material                         | Quantity | Reference | UK link | Link 2 | Link 3 |
-| ---------------------------------|---------:|:---------:|:-------:|
+| ---------------------------------|---------:|:---------:|:-------:|:-------:|:-------:|
 | 200x340x3mm  acrylic sheet | 2 | C1 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) | - | - |
 | Spacers from acrylic leftovers | 2 | C2.1 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) | - | - |
 | Lazy Susan 5.5in | 1 | LS | [Link](https://amz.run/5TF8) | [Link 2](https://amz.run/9w91) | [Link 3](https://aliexpi.com/ue6m) |
