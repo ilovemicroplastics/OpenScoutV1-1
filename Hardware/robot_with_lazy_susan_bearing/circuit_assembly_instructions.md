@@ -30,7 +30,7 @@ CQrobot Motor (M1) pinout:
 
 ## Introduction
 
-This tutorial provides instructions for wiring together the electronic components. Example photos are provided and can be used as reference, however some of the components are optional (e.g. the terminal blocks (DT) on the din rail, and the breadboards) but you are free to replace them with other components such as veroboards, depending on your soldering experience.(**WARNING**: Please handle the Lead Acid battery (E1) with care. DO NOT touch touch the terminals with your hand, ever.)
+This tutorial provides instructions for wiring together the electronic components. Example photos are provided and can be used as reference, however some of the components are optional (e.g. the terminal blocks (DT) on the din rail, and the breadboards) but you are free to replace them with other components such as veroboards, depending on your soldering experience. (**WARNING**: Please handle the Lead Acid battery (E1) with care. DO NOT touch touch the terminals, or any live wires, with your hand. (EVER!))
 
 ## Wiring Diagram
 
