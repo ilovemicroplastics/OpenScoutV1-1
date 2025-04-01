@@ -36,4 +36,4 @@ https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all
 6. `colcon build --symlink-install`
 7. `ros2 run esp32_mqtt_interface mqtt_publisher`
 8. Open a new bash terminal.
-9. `ros2 topic pub /cmd_vel geometry_msgs/msg/Twist "{linear: {x: 1.0}, angular: {z: 0.0}}"
+9. `ros2 topic pub /cmd_vel geometry_msgs/msg/Twist "{linear: {x: 1.0}, angular: {z: 0.0}}"`
