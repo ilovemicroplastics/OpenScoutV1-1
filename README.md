@@ -11,6 +11,10 @@ https://github.com/user-attachments/assets/4c83e099-2132-454d-ae23-d050e3298f1a
 Assembly tutorial for the OpenScout with a 'Lazy Susan' revolute hinge is available at the following link:
 [OpenScout robot with 'Lazy Susan' revolute hinge](Hardware/robot_with_lazy_susan_bearing/README.md)
 
+## Gazebo Harmonic Simulation:
+If you are here for the Gazebo Harmonic Simulation, follow this link:
+[OpenScoutV2 simulation](Software/simulation/openscout_ws/README.md)
+
 ## How to contribute
 While we try to keep this project open source you are free to make your own choice of materials and adapt the robot to your needs. However, we kindly request you to stick to the suggested 200mm & 300mm 20x20 aluminum extrusions, to allow others to disassemble their current configuration and try out yours! If you use OpenScout for your project, please open a PR with your configuration and tutorials. 
 
