@@ -49,17 +49,15 @@ This tutorial provides instructions for wiring together the electronic component
   <img src="../../Documentation/Images/esp_pinout.PNG" width="500"/>
 </p>
 
-2. See the [arduino layout](../../Documentation/Schematics/arduino_layout.pdf) schematic for reference.
+### 2. Connecting the front motors with the front motor driver
+
+1. Connect the L298N front motor driver (E5) on 12V and the enable/input pins on the ESP32 (E4)
 
 <p float="center">
   <img src="../../Documentation/Images/electronics_0.jpeg" title="Attaching the motor brackets on the bottom of the chassis." width="500"/>
 </p>
 
-### 2. Connecting the front motors with the front motor driver
-
-1. Connect the L298N front motor driver (E5) on 12V and the enable/input pins on the arduino (E4)
-
-| L298N front motor driver (E5) | Pin on Arduino |
+| L298N front motor driver (E5) | Pin on ESP32 |
 | -----------------|---------------:|
 | ENA | D10 |
 | IN1 | D27 |
@@ -89,7 +87,7 @@ This tutorial provides instructions for wiring together the electronic component
 
 1. Connect the L298N back motor driver (E5) on 12V and the enable/input pins on the arduino (E4)
 
-| L298N back motor driver (E5) | Pin on Arduino |
+| L298N back motor driver (E5) | Pin on ESP32 |
 | -----------------|---------------:|
 | ENA | D9 |
 | IN1 | D25 |
@@ -109,10 +107,6 @@ This tutorial provides instructions for wiring together the electronic component
 | -----|----:|
 | OUT3 | black |
 | OUT4 | red |
-
-3. Connect the encoder VCC and GND on the LB and RB motors (M1) on the 5V output of the step down converter (E3).
-   
-4. See the [back side motors layout](../../Documentation/Schematics/back_side_motors.pdf) schematic for reference.
 
 <p float="center">
   <img src="../../Documentation/Images/electronics_2.jpeg" title="Example wiring of the robot." width="500"/>
