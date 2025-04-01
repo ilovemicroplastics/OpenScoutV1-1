@@ -59,6 +59,5 @@ https://github.com/user-attachments/assets/db36529f-7577-4ad0-a52f-730f6c3506c2
 ## Statement on simulation accuracy
 
 - Up to now, assessments of the accuracy have been observational (comparing with a real OpenScoutV2) , but we feel its close.
-- Formal testing is planned for this week, the results and proof will be added here before 06/01/25.
-- Adjustments to parameters will be made as neccesary.
+- Formal testing is planned for before 04/01/25.
 - Further testing and refinement will be conducted when newly released software that may yield improvement is released.
