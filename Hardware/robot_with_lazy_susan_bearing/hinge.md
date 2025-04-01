@@ -4,7 +4,7 @@
 
 ### Bill of materials:
 
-| Material                         | Quantity | Reference | UK link |
+| Material                         | Quantity | Reference | UK link | Link 2 | Link 3 |
 | ---------------------------------|---------:|:---------:|:-------:|
 | 200x340x3mm  acrylic sheet | 2 | C1 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) | - | - |
 | Spacers from acrylic leftovers | 2 | C2.1 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) | - | - |
