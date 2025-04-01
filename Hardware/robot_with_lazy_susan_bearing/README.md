@@ -18,21 +18,21 @@ These are the tools required to build the OpenScout
 Before proceeding make sure you do have all the following materials. You are encouraged to read carefully the tutorial before starting building the robot.
 
 For the chassis:
-| Material                         | Quantity | Reference | UK link |
-| ---------------------------------|---------:|:---------:|:-------:|
-| 300mm 20x20 aluminium extrusion  | 8 |  A1 | [Link](https://ooznest.co.uk/product/v-slot-linear-rail-20x20mm-cut-to-size/) |
-| 200mm 20x20 aluminium extrusion  | 17 | A2 | [Link](https://ooznest.co.uk/product/v-slot-linear-rail-20x20mm-cut-to-size/) |
-| 20x20 Angle Joint Brace Brackets | 48 | B1 | [Link](https://amz.run/5TF6) |
-| 90 Degree Cast Corner | 8 | B2 | [Link](https://ooznest.co.uk/product/90-degree-cast-corner/) |
-| 200x340x3mm acrylic sheets | 4 | C1 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) |
-| 240x340x3mm acrylic sheets | 2 | C2 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) |
-| Lazy Susan 5.5in | 1 | LS | [Link](https://amz.run/5TF8) |
-| Din rail with terminal blocks | 1 | DT | [Link](https://amz.run/5TFF) |
-| Velcro 50mmx1m | 1 | Q | [Link](https://amz.run/5TFP) |
-| 90:1 12V motor with encoders | 4 | M1 | [Link](https://amz.run/5TFQ) |
-| Wheels (112x46mm) | 4 | M2 | [Link](https://www.amazon.co.uk/best-rubber-hexagon-offroad-crawler/dp/B08B16VQTZ/ref=sr_1_6?keywords=1%2F8+buggy+wheels&qid=1656370202&sr=8-6) |
-| Wheel Hex Driver 12mm to 17mm | 4 | M3 | [Link](shorturl.at/axT25) |
-| Hex coupler 6mm   | 4 | M4 | [Link](https://amz.run/5TFT) |
+| Material                         | Quantity | Reference | UK link | Link 2 | Link 3 |
+| ---------------------------------|---------:|:---------:|:-------:|:-------:|:-------:|
+| 300mm 20x20 aluminium extrusion  | 8 |  A1 | [Link](https://ooznest.co.uk/product/v-slot-linear-rail-20x20mm-cut-to-size/) | - | - |
+| 200mm 20x20 aluminium extrusion  | 17 | A2 | [Link](https://ooznest.co.uk/product/v-slot-linear-rail-20x20mm-cut-to-size/) | - | - |
+| 20x20 Angle Joint Brace Brackets | 48 | B1 | [Link](https://amz.run/5TF6) | - | - |
+| 90 Degree Cast Corner | 8 | B2 | [Link](https://ooznest.co.uk/product/90-degree-cast-corner/) | - | - |
+| 200x340x3mm acrylic sheets | 4 | C1 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) | - | - |
+| 240x340x3mm acrylic sheets | 2 | C2 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) | - | - |
+| Lazy Susan 5.5in | 1 | LS | [Link](https://amz.run/5TF8) | - | - |
+| Din rail with terminal blocks | 1 | DT | [Link](https://amz.run/5TFF) | - | - |
+| Velcro 50mmx1m | 1 | Q | [Link](https://amz.run/5TFP) | - | - |
+| 90:1 12V motor with encoders | 4 | M1 | [Link](https://amz.run/5TFQ) | - | - |
+| Wheels (112x46mm) | 4 | M2 | [Link](https://www.amazon.co.uk/best-rubber-hexagon-offroad-crawler/dp/B08B16VQTZ/ref=sr_1_6?keywords=1%2F8+buggy+wheels&qid=1656370202&sr=8-6) | - | - |
+| Wheel Hex Driver 12mm to 17mm | 4 | M3 | [Link](shorturl.at/axT25) | - | - |
+| Hex coupler 6mm   | 4 | M4 | [Link](https://amz.run/5TFT) | - | - |
 
 
 For the electronics:
