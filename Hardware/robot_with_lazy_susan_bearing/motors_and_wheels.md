@@ -8,7 +8,7 @@
 | ---------------------------------|---------:|:---------:|:-------:|
 | 90:1 12V motor with encoders | 4 | M1 | [Link](https://amz.run/5TFQ) |
 | Wheels (112x46mm) | 4 | M2 | [Link](https://amz.run/9w93) |
-| Wheel Hex Driver 12mm to 17mm | 4 | M3 | [Link](shorturl.at/axT25) |
+| Wheel Hex Driver 12mm to 17mm | 4 | M3 | [Link](https://amz.run/9w94) |
 | Hex coupler 6mm   | 4 | M4 | [Link](https://amz.run/5TFT) |
 | Sems screw 6mm (More info needed) | 16 | P4.6 | - |
 | Sems screw 8mm (More info needed) | 8 | P4.8 | - |
