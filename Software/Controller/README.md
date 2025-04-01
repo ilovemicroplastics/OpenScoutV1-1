@@ -3,19 +3,11 @@
 ## Install time = 20 minutes
 
 ### Setup
-
-Start by downloading [ArduinoIDE 2.X](https://www.arduino.cc/en/Main/Software).
-
-In Arduino IDE, in board manager downlaod "esp32 by Espressif Systems"
-
-### Download this driver.
-https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
-
-### If using some variant of ESP32 Ch340c, you might need this driver (likely optional)
-https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all
-
-### Connect the ESP32 via USB to the computer and set the port it is attached to
-  
+1. Start by downloading [ArduinoIDE 2.X](https://www.arduino.cc/en/Main/Software).
+2. In Arduino IDE, in board manager downlaod "esp32 by Espressif Systems"
+3. Download this [driver](https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads).
+4. If using some variant of ESP32 Ch340c, you might need this [driver](https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all) (skip, and go back to this step if you're board isn't being recognised.)
+5. Connect the ESP32 via USB to the computer and set the port it is attached to
 - `Tools -> Board -> Arduino AVR Boards -> *Select the ESP32 board, if you're not sure pick ESP32 Dev Module*`
 - `Tools -> Port -> *Select the USB port*`
 
