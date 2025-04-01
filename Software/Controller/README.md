@@ -31,5 +31,5 @@
 9. This command will move forwards `ros2 topic pub /cmd_vel geometry_msgs/msg/Twist "{linear: {x: 1.0}, angular: {z: 0.0}}"`
 10. This command will turn `ros2 topic pub /cmd_vel geometry_msgs/msg/Twist "{linear: {x: 0.0}, angular: {z: 1.0}}"`
 
-- These interfaces are functional, but refinement will still be conducted at a regular pace.
-- Community contributions are very welcome.
+- These interfaces are functional, but refinement will be continued at a regular pace.
+- Community contributions are welcome, these are just examples and for certain use cases adjustments will likely be neccesary.
