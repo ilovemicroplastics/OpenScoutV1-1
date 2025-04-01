@@ -51,27 +51,7 @@ This tutorial provides instructions for wiring together the electronic component
   <img src="../../Documentation/Images/electronics_0.jpeg" title="Attaching the motor brackets on the bottom of the chassis." width="500"/>
 </p>
 
-
-### 2. Attaching the radio receiver
-
-1. Power the radio receiver (E6) using 5V from the step down converter (E3)
-2. Connect the ground from the radio receiver (E6)
-3. Connect radio receiver (E6) channels on the arduino (E4) as follows:
-
-| radio receiver (E6) | Pin on Arduino |
-| -----------------|---------------:|
-| CH1_S | D2 |
-| CH2_S | D3 |
-
-<p float="center">
-  <img src="../../Documentation/Images/electronics_1.jpeg" title="Connecting the radio receiver." width="500"/>
-</p>
-
-
-4. See the [radio receiver layout](../../Documentation/Schematics/rc_layout.pdf) schematic for reference.
-  
-
-### 3. Connecting the front motors with the front motor driver
+### 2. Connecting the front motors with the front motor driver
 
 1. Connect the L298N front motor driver (E5) on 12V and the enable/input pins on the arduino (E4)
 
@@ -101,7 +81,7 @@ This tutorial provides instructions for wiring together the electronic component
 4. See the [front side motors layout](../../Documentation/Schematics/front_side_motors.pdf) schematic for reference.
 
 
-### 4. Connecting the back motors with the back motor driver
+### 3. Connecting the back motors with the back motor driver
 
 1. Connect the L298N back motor driver (E5) on 12V and the enable/input pins on the arduino (E4)
 
