@@ -41,7 +41,7 @@ This tutorial provides instructions for wiring together the electronic component
 
 ## Step-by-step instructions
 
-### 1. Connecting the ESP32
+### 1. Connecting the battery and ESP32
 
 1. Attach a strap of velcro (Q) either on the back or the front of the robot (depending on where you'd like to place the battery), and on the bottom of the battery (E1) so you can secure it on the robot. You can use the terminal blocks on the din rail (DT) to prepare some 12V and 5V (using the step down converter (E3)) power lines to power the components.
 
@@ -51,55 +51,13 @@ This tutorial provides instructions for wiring together the electronic component
 
 2. Attach the ESP32 on a breadboard.
 
-### 2. Connecting the front motors with the front motor driver
-
-1. Connect the L298N front motor driver (E5) on 12V and the enable/input pins on the ESP32 (E4)
+### 2. Connect the front and back motors to the motor drivers, keeping the motor driver on the respective side.
 
 <p float="center">
   <img src="../../Documentation/Images/electronics_0_1.jpeg" title="Attaching the motor brackets on the bottom of the chassis." width="500"/>
 </p>
 
-2. Connect the output pins of the L298N (E5) on the LF and RF motors (M1) (see the motor color table on the top of the page).
-
-| L298N front motor driver (E5) | RF Motor (M1)|
-| -----|----:|
-| OUT1 | red |
-| OUT2 | black |
-
-| L298N front motor driver (E5) | LF Motor (M1)|
-| -----|----:|
-| OUT3 | black |
-| OUT4 | red |
-
-3. Connect the encoder VCC and GND on the LF and RF motors (M1) on the 3.3V output of the ESP32 (E4).
-   
-4. See the [front side motors layout](../../Documentation/Schematics/front_side_motors.pdf) schematic for reference.
-
-
-### 3. Connecting the back motors with the back motor driver
-
-1. Connect the L298N back motor driver (E5) on 12V and the enable/input pins on the arduino (E4)
-
-| L298N back motor driver (E5) | Pin on ESP32 |
-| -----------------|---------------:|
-| ENA | D9 |
-| IN1 | D25 |
-| IN2 | D24 |
-| IN3 | D23 |
-| IN4 | D22 |
-| ENB | D8 |
-
-2. Connect the output pins of the L298N (E5) on the LB and RB motors (M1) (see the motor color table on the top of the page).
-
-| L298N back motor driver (E5) | LB Motor (M1)|
-| -----|----:|
-| OUT1 | red |
-| OUT2 | black |
-
-| L298N back motor driver (E5) | RB Motor (M1)|
-| -----|----:|
-| OUT3 | black |
-| OUT4 | red |
+### 3. Connect the motor drivers and encoders to the ESP32 as in diagram, use din rail to connect 3.3V to motor encoders.
 
 <p float="center">
   <img src="../../Documentation/Images/final_circuit.jpg" title="Example wiring of the robot." width="500"/>
