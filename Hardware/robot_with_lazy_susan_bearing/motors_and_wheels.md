@@ -38,7 +38,7 @@ One the other hand, the wheels selection wasn't very sophisticated, and soon the
 <p float="center">
   <img src="../../Documentation/Images/motor_brackets_3a.jpeg" title="Attaching the motors on the motor brackets." width="300"/>
   <img src="../../Documentation/Images/motor_brackets_3.jpeg" title="Attaching the motors on the motor brackets." width="300"/>
-  <img src="../../Documentation/Images/motor_brackets_4_1.jpeg" title="Attaching the motors on the motor brackets." width="300"/>
+  <img src="../../Documentation/Images/motor_brackets_4_2.jpeg" title="Attaching the motors on the motor brackets." width="300"/>
 </p>
 
 
