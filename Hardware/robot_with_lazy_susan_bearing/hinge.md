@@ -8,7 +8,7 @@
 | ---------------------------------|---------:|:---------:|:-------:|
 | 200x340x3mm  acrylic sheet | 2 | C1 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) |
 | Spacers from acrylic leftovers | 2 | C2.1 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) |
-| Lazy Susan 5.5in | 1 | LS | [Link](https://amz.run/5TF8) |
+| Lazy Susan 5.5in | 1 | LS | [Link](https://amz.run/5TF8) | [Link 2](https://amz.run/9w91) | [Link 3](https://aliexpi.com/ue6m) |
 | M4 12mm socket screw (More info needed) | 4 | S4.12 | - |
 | M4 16mm socket screw (More info needed) | 4 | S4.16  | - |
 | M4 Hex nuts | 8 | N1 | - |
