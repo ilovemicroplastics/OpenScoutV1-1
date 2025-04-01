@@ -7,7 +7,6 @@
 | Material                         | Quantity | Reference | UK link |
 | ---------------------------------|---------:|:---------:|:-------:|
 | Din rail with terminal blocks | 1 | DT | [Link](https://amz.run/5TFF) |
-| Din rail with terminal blocks | 1 | DT | [Link](https://amz.run/5TFF) |
 | 10A circuit breaker | 1 | E2 | [Link](https://amz.run/5TFI) |
 | M4 8mm socket screw | 2 | S4.8 | - |
 | M4 T-slot nuts | 2 | T4 | - |
