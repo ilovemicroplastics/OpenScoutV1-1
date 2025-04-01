@@ -16,7 +16,7 @@
 2. Upload the sketch by pressing the upload button.
 3. Download an app like `Serial Bluetooth Terminal` on your phone (or use any other serial BT terminal of your choice, OpenScoutV2 isn't affiliated)
 4. Connect to the OpenScout via bluetooth.
-5. Connect to the serial terminal.
+5. Connect the phone serial terminal to the OpenScoutV2.
 6. Try sending single characters "w", "a", "s", "d" to move, and "x" to stop.
 
 ### Option B: Flash MQTT controller
