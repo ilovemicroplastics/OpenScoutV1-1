@@ -1,4 +1,4 @@
-This is a ROS2 package for virtually simulating the OpenScout robot.
+This is a ROS2 package for virtually simulating the OpenScoutV2 robot.
 
 ## Environment
 [Ubuntu Noble 24.04.1](https://releases.ubuntu.com/noble/) 
