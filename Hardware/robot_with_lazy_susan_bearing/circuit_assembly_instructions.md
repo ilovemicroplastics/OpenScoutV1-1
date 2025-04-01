@@ -11,7 +11,6 @@
 | Buck converter | 1 | E3 | [Link](https://amz.run/5TFJ) |
 | Arduino Mega | 1 | E4 | [Link](https://amz.run/5TFL) |
 | L298N Motor drivers | 2 | E5 | [Link](https://amz.run/5TFN) |
-| Radio transmitter-receiver | 1 | E6 | [Link](https://amz.run/5TFO) |
 | 90:1 12V motor with encoders | 4 | M1 | [Link](https://amz.run/5TFQ) |
 | Din rail with terminal blocks | 1 | DT | [Link](https://amz.run/5TFF) |
 | Velcro 50mmx1m | 1 | Q | [Link](https://amz.run/5TFP) |
