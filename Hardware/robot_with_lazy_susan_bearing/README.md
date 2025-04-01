@@ -26,7 +26,7 @@ For the chassis:
 | 90 Degree Cast Corner | 8 | B2 | [Link](https://ooznest.co.uk/product/90-degree-cast-corner/) | - | - |
 | 200x340x3mm acrylic sheets | 4 | C1 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) | - | - |
 | 240x340x3mm acrylic sheets | 2 | C2 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) | - | - |
-| Lazy Susan 5.5in | 1 | LS | [Link](https://amz.run/5TF8) | - | - |
+| Lazy Susan 5.5in | 1 | LS | [Link](https://amz.run/5TF8) | [Link 2](https://amz.run/9w91) | [Link 3](https://aliexpi.com/ue6m) |
 | Din rail with terminal blocks | 1 | DT | [Link](https://amz.run/5TFF) | - | - |
 | Velcro 50mmx1m | 1 | Q | [Link](https://amz.run/5TFP) | - | - |
 | 90:1 12V motor with encoders | 4 | M1 | [Link](https://amz.run/5TFQ) | - | - |
