@@ -49,6 +49,8 @@ This tutorial provides instructions for wiring together the electronic component
   <img src="../../Documentation/Images/esp_pinout.PNG" width="500"/>
 </p>
 
+2. Attach the ESP32 on a breadboard.
+
 ### 2. Connecting the front motors with the front motor driver
 
 1. Connect the L298N front motor driver (E5) on 12V and the enable/input pins on the ESP32 (E4)
@@ -59,12 +61,12 @@ This tutorial provides instructions for wiring together the electronic component
 
 | L298N front motor driver (E5) | Pin on ESP32 |
 | -----------------|---------------:|
-| ENA | D10 |
-| IN1 | D27 |
-| IN2 | D26 |
-| IN3 | D29 |
-| IN4 | D28 |
-| ENB | D11 |
+| ENA | D13 |
+| IN1 | D17 |
+| IN2 | D16 |
+| IN3 | D4 |
+| IN4 | D16 |
+| ENB | D14 |
 
 2. Connect the output pins of the L298N (E5) on the LF and RF motors (M1) (see the motor color table on the top of the page).
 
@@ -78,7 +80,7 @@ This tutorial provides instructions for wiring together the electronic component
 | OUT3 | black |
 | OUT4 | red |
 
-3. Connect the encoder VCC and GND on the LF and RF motors (M1) on the 5V output of the step down converter (E3).
+3. Connect the encoder VCC and GND on the LF and RF motors (M1) on the 3.3V output of the ESP32 (E4).
    
 4. See the [front side motors layout](../../Documentation/Schematics/front_side_motors.pdf) schematic for reference.
 
@@ -109,7 +111,7 @@ This tutorial provides instructions for wiring together the electronic component
 | OUT4 | red |
 
 <p float="center">
-  <img src="../../Documentation/Images/electronics_2.jpeg" title="Example wiring of the robot." width="500"/>
+  <img src="../../Documentation/Images/final_circuit.jpg" title="Example wiring of the robot." width="500"/>
 </p>
 
 ## What's next?
