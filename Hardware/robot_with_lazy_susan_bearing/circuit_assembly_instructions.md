@@ -13,7 +13,7 @@
 | L298N Motor drivers | 2 | E5 | [Link](https://amz.run/5TFN) |
 | 90:1 12V motor with encoders | 4 | M1 | [Link](https://amz.run/5TFQ) |
 | Din rail with terminal blocks | 1 | DT | [Link](https://amz.run/5TFF) |
-| Velcro 50mmx1m | 1 | Q | [Link](https://amz.run/5TFP) |
+| Velcro | 1 | Q | [Link](https://amz.run/9w95) |
 | Breadboards | - | - | - |
 | Wires | - | - | - |
 
