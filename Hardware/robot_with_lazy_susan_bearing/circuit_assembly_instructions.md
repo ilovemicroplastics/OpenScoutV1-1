@@ -41,7 +41,7 @@ This tutorial provides instructions for wiring together the electronic component
 
 ## Step-by-step instructions
 
-### 1. Connecting the arduino
+### 1. Connecting the ESP32
 
 1. Attach a strap of velcro (Q) either on the back or the front of the robot (depending on where you'd like to place the battery), and on the bottom of the battery (E1) so you can secure it on the robot. You can use the terminal blocks on the din rail (DT) to prepare some 12V and 5V (using the step down converter (E3)) power lines to power the components.
 
