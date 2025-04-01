@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/4c83e099-2132-454d-ae23-d050e3298f1a
 
 ## Assembly Tutorial:
 Assembly tutorial for the OpenScout with a 'Lazy Susan' revolute hinge is available at the following link:
-[OpenScout robot with 'Lazy Susan' revolute hinge](Hardware/robot_with_lazy_susan_bearing/README.md)
+[OpenScoutV2 robot with 'Lazy Susan' revolute hinge](Hardware/robot_with_lazy_susan_bearing/README.md)
 
 ## Gazebo Harmonic Simulation:
 If you are here for the Gazebo Harmonic Simulation, follow this link:
