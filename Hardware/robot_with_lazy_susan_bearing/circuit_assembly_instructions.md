@@ -56,17 +56,8 @@ This tutorial provides instructions for wiring together the electronic component
 1. Connect the L298N front motor driver (E5) on 12V and the enable/input pins on the ESP32 (E4)
 
 <p float="center">
-  <img src="../../Documentation/Images/electronics_0.jpeg" title="Attaching the motor brackets on the bottom of the chassis." width="500"/>
+  <img src="../../Documentation/Images/electronics_0_1.jpeg" title="Attaching the motor brackets on the bottom of the chassis." width="500"/>
 </p>
-
-| L298N front motor driver (E5) | Pin on ESP32 |
-| -----------------|---------------:|
-| ENA | D13 |
-| IN1 | D17 |
-| IN2 | D16 |
-| IN3 | D4 |
-| IN4 | D16 |
-| ENB | D14 |
 
 2. Connect the output pins of the L298N (E5) on the LF and RF motors (M1) (see the motor color table on the top of the page).
 
