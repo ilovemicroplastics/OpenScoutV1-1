@@ -17,7 +17,7 @@ This tutorial includes instructions to laser-cut and fit the bare minimum acryli
 
 ## Step-by-step instructions
 
-1. laser cut the bottom, front and back panels using the .dxf files in [CAD_Files](../../Documentation/CAD_Files/README.md)
+1. laser cut the bottom, front and back panels using the .dxf files from the [CAD_Files](../../Documentation/CAD_Files/README.md) directory.
 
 2. Fit the side panels (the smaller ones) as in the previous tutorial using the already equipped (S5.10) screws. (**HINT**: Fit first two opposing sides, and slide the panel across the extrusion, so you can align the misaligned (T5) nuts.)
 
