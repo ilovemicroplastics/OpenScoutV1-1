@@ -14,7 +14,7 @@
 ### Option A: Flash BlueTooth controller
 1. Open the Arduino IDE and load in the `OpenScout_control_BT.ino` file (`File -> Open -> select_file`).
 2. Upload the sketch by pressing the upload button.
-3. Download an app like `Serial Bluetooth Terminal` on your phone (or use any other serial BT terminal of your choice, OpenScoutV2 isn't affiliated)
+3. Download an app like `Serial Bluetooth Terminal` on your phone (or any other serial BT terminal of your choice, OpenScoutV2 isn't affiliated)
 4. Connect to the OpenScout via bluetooth.
 5. Connect the phone serial terminal to the OpenScoutV2.
 6. Try sending single characters "w", "a", "s", "d" to move, and "x" to stop.
