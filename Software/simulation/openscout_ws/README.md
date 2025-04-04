@@ -58,6 +58,15 @@ https://github.com/user-attachments/assets/db36529f-7577-4ad0-a52f-730f6c3506c2
 
 ## Statement on simulation accuracy
 
-- Up to now, assessments of the accuracy have been observational (comparing with a real OpenScoutV2) , but we feel its close.
-- Formal testing is planned for before 04/01/25.
+| **Parameter**           | **No Load** | **3kg Load** | **6kg Load** | **Units**   |
+|-------------------------|-------------|--------------|--------------|-------------|
+| Distance Tested          | 5.0         | 5.0          | 5.0          | meters     |
+| Time Taken               | 9.0         | 10.0         | 11.0         | seconds    |
+| Linear Velocity          | 0.60        | 0.50         | 0.45         | m/s        |
+| Performance Reduction    | 0%          | 16.7%        | 25.0%        | percentage |
+| Angular Velocity         | $\pi/7 \approx 0.45$ |  |  | rad/s      |
+| Full Rotation Time       | 14.0        |          |          | seconds    |
+
+**Performance Analysis of OpenScout Mobile Robot**
+
 - Further testing and refinement will be conducted when newly released software that may yield improvement is released.
