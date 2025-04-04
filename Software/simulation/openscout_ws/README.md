@@ -58,6 +58,8 @@ https://github.com/user-attachments/assets/db36529f-7577-4ad0-a52f-730f6c3506c2
 
 ## Statement on simulation accuracy
 
+**Most Recent Performance Analysis of real OpenScoutV2**
+
 | **Parameter**           | **No Load** | **3kg Load** | **6kg Load** | **Units**   |
 |-------------------------|-------------|--------------|--------------|-------------|
 | Distance Tested          | 5.0         | 5.0          | 5.0          | meters     |
@@ -67,6 +69,10 @@ https://github.com/user-attachments/assets/db36529f-7577-4ad0-a52f-730f6c3506c2
 | Angular Velocity         | $\pi/7 \approx 0.45$ |  |  | rad/s      |
 | Full Rotation Time       | 14.0        |          |          | seconds    |
 
-**Performance Analysis of OpenScout Mobile Robot**
+**Performance analysis of virtual OpenScoutV2**
+
+Scheduled for 05/04
+
+
 
 - Further testing and refinement will be conducted when newly released software that may yield improvement is released.
