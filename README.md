@@ -1,9 +1,11 @@
 # OpenScout v2
 
 ## An Improved Open Source Hardware Mobile Robot
-OpenScout v2 is a low-cost OSH mobile robot that can be used for both indoor and outdoor tasks, with up to 15kg of payload mounted. This project builds on the original [OpenScout](https://zenodo.org/doi/10.5281/zenodo.10263675) by reducing it's complexity, integrating it with ROS2, providing a WiFi and BlueTooth interface, as well as introducing a Gazebo simulation for testing. The robot is designed to be easily and cheaply buildable and modifiable by non-specialists, and to function as a reproducible physical platform for robotics research and real-world tasks, replacing current proprietary options. Example applications include last mile and factory floor delivery, site survey and monitoring, and agricultural crop operations.
+OpenScout v2 is a low-cost OSH mobile robot that can be used for both indoor and outdoor tasks, tested up to 6kg of mounted payload. This project builds on the original [OpenScout](https://zenodo.org/doi/10.5281/zenodo.10263675) by reducing it's complexity, integrating it with ROS2, providing a WiFi and BlueTooth interface, as well as introducing a Gazebo simulation for testing. The robot is designed to be easily and cheaply buildable.
 
-OpenScout is made of standard sizes aluminium extrusions making it very modular. That means its chassis design can easily be varied based on the use case and the needs of the user.
+The intended purpose: to function as a reproducible physical platform for robotics research and real-world tasks, replacing proprietary options. The OpenScoutV2 has light offroad capabilities (suitable for a farm or similar), and is a blank slate to attach modules to. It is designed in such a way that a non-specialist should be able to attach a less than 6kg scientific (or other) instrument. Example applications include; mounting a camera for autonomous site survey, an actuator for agricultural operations, use in robotics experiments, and autonomous local deliveries (in areas covered by WiFi, for example a campus).
+
+OpenScout is made of standard sizes aluminium extrusions making it very modular. That means its chassis design can be varied based on the use case and the needs of the user.
 
 https://github.com/user-attachments/assets/4c83e099-2132-454d-ae23-d050e3298f1a
 
@@ -12,7 +14,7 @@ Assembly tutorial for the OpenScout with a 'Lazy Susan' revolute hinge is availa
 [OpenScoutV2 robot with 'Lazy Susan' revolute hinge](Hardware/robot_with_lazy_susan_bearing/README.md)
 
 ## Gazebo Harmonic Simulation:
-To skip straight to the Gazebo Harmonic Simulation, follow this link:
+To see the Gazebo Harmonic Simulation, follow this link:
 [OpenScoutV2 simulation](Software/simulation/openscout_ws/README.md)
 
 ## If you encounter any problems or find anything unclear...
