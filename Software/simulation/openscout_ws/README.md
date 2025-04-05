@@ -18,11 +18,6 @@ Additionally, when installing Gazebo Harmonic ensure that you do not install the
 
 First prepare the environment, as listed above.
 
-Then make sure you have teleop twist keyboard installed.
-````
-sudo apt-get install ros-jazzy-teleop-twist-keyboard
-````
-
 Download or clone the repository openscout_ws, and put it in the **home** folder.
 
 Open the Terminal and enter the following commands.
@@ -42,6 +37,11 @@ In a new terminal enter the following:
 ````
 source /opt/ros/jazzy/setup.bash
 ros2 run teleop_twist_keyboard teleop_twist_keyboard
+````
+
+If you don't have the teleop_twist_keyboard package installed, then install it.
+````
+sudo apt-get install ros-jazzy-teleop-twist-keyboard
 ````
 
 ## Once in the simulation
