@@ -81,4 +81,4 @@ https://github.com/user-attachments/assets/db36529f-7577-4ad0-a52f-730f6c3506c2
 
 As can be seen, the simulated OpenScoutV2 is a close approximation. Unfortunately due to Gazebo Harmonic (01/04/25) physics limitations, modelling the interaction between wheels and the ground realistically is difficult. An idea being floated is to try to port the [Gazebo Classic wheel slip plugin](https://github.com/gazebosim/gazebo-classic/blob/gazebo11/plugins/WheelSlipPlugin.hh) to Gazebo Harmonic. In theory this would resolve the software bottleneck, but it would require extensive development and testing.
 
-- Further testing and refinement will be conducted when newly released software that may yield improvement is released.
+Further refinement will be conducted when newly released software that may yield improvement becomes available.
