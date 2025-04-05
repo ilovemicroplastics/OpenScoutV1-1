@@ -41,6 +41,7 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
 
 If you don't have the teleop_twist_keyboard package installed, then install it.
 ````
+source /opt/ros/jazzy/setup.bash
 sudo apt-get install ros-jazzy-teleop-twist-keyboard
 ````
 
