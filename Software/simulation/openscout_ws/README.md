@@ -76,7 +76,7 @@ https://github.com/user-attachments/assets/db36529f-7577-4ad0-a52f-730f6c3506c2
 | Distance Tested | 5.0       | m        |
 | Time Taken      | 10.0      | s        |
 | Linear Velocity | 0.5       | m/s      |
-| Angular Veloctiy| $\pi/9 \approx 0.35 | rad/s |
+| Angular Veloctiy| $\pi/9 \approx 0.35$ | rad/s |
 | Full Rotation Time | 18     | s        |
 
 
