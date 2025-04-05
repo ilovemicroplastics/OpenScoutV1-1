@@ -61,6 +61,7 @@ https://github.com/user-attachments/assets/db36529f-7577-4ad0-a52f-730f6c3506c2
 **Most Recent Performance Analysis of real OpenScoutV2**
 
 | **Parameter**           | **No Load** | **3kg Load** | **6kg Load** | **Units**   |
+| - | - | - | - |
 | Distance Tested          | 5.0         | 5.0          | 5.0          | meters     |
 | Time Taken               | 9.0         | 10.0         | 11.0         | seconds    |
 | Linear Velocity          | 0.60        | 0.50         | 0.45         | m/s        |
