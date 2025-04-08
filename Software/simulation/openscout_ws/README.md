@@ -10,7 +10,7 @@ This is a ROS2 package for virtually simulating the OpenScoutV2 robot.
 ### Further info
 During the time of writing (2025), Gazebo Harmonic does not tolerate running in a virtual machine very well. It is recommended to run it on a computer with Ubuntu Noble installed natively. 
 
-Additionally, when installing Gazebo Harmonic ensure that you do not install the standalone version. Instead first install ROS2 Jazzy, and then opt for [the version of Gazebo integrated into ROS2 Jazzy.](https://docs.ros.org/en/jazzy/Installation.html)
+Additionally, when installing Gazebo Harmonic ensure that you do not install the standalone version. Instead first install ROS2 Jazzy, and then opt for [the version of Gazebo integrated into ROS2 Jazzy.](https://gazebosim.org/docs/harmonic/ros_installation/)
 
 ![alt text](https://github.com/ilovemicroplastics/OpenScout/blob/main/Software/simulation/openscout_ws/openscout_sim.png)
 
