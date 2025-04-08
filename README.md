@@ -5,7 +5,7 @@ OpenScout v2 is a low-cost (approx. 350USD) OSH mobile robot that can be used fo
 
 The intended purpose is to function as a reproducible physical platform for robotics research and real-world tasks, replacing existent proprietary options. The OpenScoutV2 offers light offroad capabilities (suitable for a farm or similar), and is a blank slate to attach modules to. It is designed so that a non-technician should be able to build it and attach a less than 6kg scientific (or other) instrument. Example applications include; mounting a camera for autonomous site survey, an actuator for agricultural operations like crop inspection, use in robotics experiments, and autonomous local deliveries in areas covered by WiFi (for example a campus).
 
-OpenScout is made of standard sized aluminium extrusions making it modular. That means its chassis design can be varied based on the use case and the needs of the user.
+OpenScout is made from standard sized aluminium extrusions making it modular. That means its chassis design can be varied based on the use case and the needs of the user.
 
 https://github.com/user-attachments/assets/4c83e099-2132-454d-ae23-d050e3298f1a
 
