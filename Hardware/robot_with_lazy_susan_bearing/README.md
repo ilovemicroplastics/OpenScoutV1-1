@@ -81,7 +81,7 @@ These unexpected issues came up very recently and stem from the fact that the or
 - The specific terminal blocks may have fallen out of production
 
 Replacement components are currently being tested, but as a temporary solution it is still possible to build with the following fixes:
-- Connecting and splitting wire connections with push connectors instead of the defunct original din rail terminal.
+- Connecting and splitting wire connections with push connectors instead of the defunct din rail terminal.
 - Instead of using the 12mm to 17mm hex adaptor, stack multiple washers on the outside of the wheel until the screw isn't loose.
 
 In the amended design, measures will be taken to secure future buildability (such as using simpler widely produced electrical components)
