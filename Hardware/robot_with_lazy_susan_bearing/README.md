@@ -73,7 +73,7 @@ Bolts & nuts:
 
 ## Known Issues
 
-These issues come from the fact that the original OpenScout is quite old now.
+These unexpected issues come from the fact that the original OpenScout is quite old now.
 
 - The specific wheel used has fallen out of production (as of writing its still possible to aquire it)
 - The original adaptor associated with the wheel has gone too.
