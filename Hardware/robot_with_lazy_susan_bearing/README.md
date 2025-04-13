@@ -71,6 +71,21 @@ Bolts & nuts:
 
 (**NOTE**: The links are provided only as examples and there is no affiliation with the suppliers. The reader is advised to look for cheaper alternatives if possible, for example ESP32s cost a few USD on aliexpress. The motor brackets are provided in the CQRobot motor package, thus they are not in the bill of materials. Please keep in mind that alternative motors, brackets or components might require different bolts or additional parts.)
 
+## Known Issues
+
+These issues come from the fact that the original OpenScout is quite old now.
+
+- The specific wheel used has fallen out of production (as of writing its still possible to aquire it)
+- The original adaptor associated with the wheel has gone too.
+- Hinge is likely to fall out of production soon
+- The specific terminal blocks may have fallen out of production
+
+Replacement components are being tested, but as a temporary solution it is still possible to build with the following fixes:
+- Connecting and splitting wire connections with push connectors instead of the defunct original din rail terminal.
+- Instead of using the 12mm to 17mm hex adaptor, stack multiple washers on the outside of the wheel until the screw isn't loose.
+
+In the amended design, measures will be taken to secure future buildability (such as using less specific widely produced electrical components)
+
 ## Assembly instructions.
 
 Pick either route A or route B.
