@@ -84,7 +84,7 @@ Replacement components are being tested, but as a temporary solution it is still
 - Connecting and splitting wire connections with push connectors instead of the defunct original din rail terminal.
 - Instead of using the 12mm to 17mm hex adaptor, stack multiple washers on the outside of the wheel until the screw isn't loose.
 
-In the amended design, measures will be taken to secure future buildability (such as using less specific widely produced electrical components)
+In the amended design, measures will be taken to secure future buildability (such as using simpler widely produced electrical components)
 
 ## Assembly instructions.
 
