@@ -19,7 +19,9 @@ To see the Gazebo Harmonic Simulation, follow this link:
 
 ## If you encounter any problems or find anything unclear...
 
-Feel free to open an issue. All feedback is valuable and instructions will be updated accordingly. Fair warning, this is considered a development version of the OpenScout. Assess everything properly, we do not accept liability.
+Feel free to open an issue. All feedback is valuable and instructions will be updated accordingly. 
+
+Fair warning, this is considered a development version of the OpenScout. Assess everything properly, we do not accept liability.
 
 ## How to contribute
 While we try to keep this project open source you are free to make your own choice of materials and adapt the robot to your needs. However, we kindly request you to stick to the suggested 200mm & 300mm 20x20 aluminum extrusions, to allow others to disassemble their current configuration and try out yours! If you use OpenScout for your project, please open a PR with your configuration and tutorials. 
