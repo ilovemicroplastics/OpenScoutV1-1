@@ -19,9 +19,9 @@ Temporary suggestions before a solution is chosen:
 - Instead of using the 12mm to 17mm hex adaptor, stack multiple washers on the outside of the wheel until the screw isn't loose.
 
 Also, the descriptions of each component are not sufficient.
-- What if a link dies or a storepage closes?
+- What if a link dies or a store page closes?
 - How would someone in the future know how to source a replacement part.
-- I recommend detailing and documenting every part [here](./detailed_part_inventory.md), including any plans such as potential 3D printing or local manufacturing blueprint.
+- I recommend detailing and documenting every part [here](./detailed_part_inventory.md), including pictures, any plans such as potential 3D printing, or other local manufacturing blueprint.
 - Some of these links use an amazon link shortener which seemingly has occasional brief outages (or it gets blocked by my browser properties), if they don't work try again a bit later that seems to resolve it.
 
 In the amended design, measures should be taken to secure future buildability (such as using simpler components, or using 3D printing)
