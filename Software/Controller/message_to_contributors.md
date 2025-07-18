@@ -1,11 +1,37 @@
 ### Hello
 
+This is a message to anyone attempting to modify the ESP32 program, its very much doable! but it will take some determination.
+
 This MQTT script might be a little confusing.
+
+Admittedly it's not the highest quality code, but it works.
 
 It's essentially a normal MCU robot controller, which has a MQTT broker built in.
 
-The MQTT broker receives certain preprogramed ROS2 topics, and parses them to calcualte the movement command.
+The MQTT broker receives certain preprogramed ROS2 topics, and parses them to calculate the movement command.
 
-Therefore this isn't a direct ROS2 implemention, but more like a ROS2 implemention from first principles, or a ROS2 interface without true ROS2.
+Therefore this isn't a direct ROS2 implementation, but more like a ROS2 implementation from first principles, or a ROS2 interface without true ROS2.
 
 This was done as a workaround to the 1.3MB of memory contained, and the program maxes it out.
+
+Believe me, this ESP32 script seems intimidating, and it genuinely is if you aren't primed properly.
+
+I would recommend going in this order.
+- First have a basic understanding of C++ (Chose someone who knows already ideally)
+- Then understand that the ESP32 has certain built in commands which aren't native to C++, such as timers
+- Then understand that the ESP32 has libraries which are developed specifically for it, and they have their own syntax (although its similar to C++)
+- Be careful with library versions, because some of them had minor syntax changes between versions which can be frustrating source of errors
+- After all that, try understand the program by running through it line by line and making notes
+- It does a lot of mathematical things regarding the Hall effect, and technically its only at half efficiency as these motors can give twice as many readings.
+- But you don't really need to know that to modify the code, just know that it works and that it modules the motor speed.
+- Without the Hall effect maths the motors will work FAR worse, try it if you really want to.
+- On top of all this, either the MQTT or BlueTooth interface is used to send ROS2 command strings across networks which are parsed into real low level commands.
+- When in doubt use trail and error or LLMs, but ideally only for explanation purposes because I've found LLMS (in 2025) to be mediocre for low-level C++ like this.
+- If it doesn't make sense read all this again.
+- Make the changes you need to.
+
+If you can understand all this you earned your low-level programming wizard hat, congratulations.
+
+Good luck.
+
+B.K. - 18/07/2025
