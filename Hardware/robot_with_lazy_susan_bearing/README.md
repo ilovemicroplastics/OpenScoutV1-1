@@ -34,7 +34,7 @@ For the chassis:
 | 90:1 12V motor with encoders | 4 | M1 | [Link](https://amz.run/5TFQ) | Dead Link |
 | Wheels (112x46mm) | 4 | M2 | [Link](https://www.ubuy.co.na/product/4Z24S4Z98-kingval-4pcs-replacement-durable-rc-tyre-tire-wheel-112x46mm-hex-joint-17mm-compatible-with-1-8-off-road-car-buggy-redcat-team-losi-vrx-hpi) | Bad |
 | Wheel Hex Driver 12mm to 17mm | 4 | M3 | [Link](https://amz.run/9w94) | Dead Link |
-| Hex coupler 6mm   | 4 | M4 | [Link](https://amz.run/5TFT) | Good |
+| Hex coupler 6mm   | 4 | M4 | [Link](https://amz.run/5TFT) | Dead Link |
 
 
 For the electronics:
