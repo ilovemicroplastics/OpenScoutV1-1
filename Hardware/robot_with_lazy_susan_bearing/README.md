@@ -3,7 +3,7 @@ This configuration uses four-wheel differential drive steering, and a Lazy Susan
 
 ## Total Build time = 390 minutes (6 hours 30 minutes)
 
-This section is a summary of parts needed to build the OpenScoutV1.1. For a detailed description of each part see [here](./detailed_part_inventory.md). Please note that some of these links use an amazon link shortener which seemingly has occasional brief outages, if they don't work try again a bit later.
+This section is a summary of parts needed to build the OpenScoutV1.1. For a detailed description of each part see [here](./detailed_part_inventory.md).
 
 ## Assembly Tools Required
 These are the tools required.
