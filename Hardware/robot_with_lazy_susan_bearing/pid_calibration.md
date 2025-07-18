@@ -13,3 +13,6 @@ The robot drives using [differential robot kinematics](https://www.cs.columbia.e
 
 In our implemenation we found `Kp=2, Ki=5, Kd=1` as optimal.
 
+Page last reviewed by: B.K. on 18/07/25
+
+Notes - I haven't tried this myself, but its rarely used in development and seems well reasoned.
