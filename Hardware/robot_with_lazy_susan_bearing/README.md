@@ -87,6 +87,11 @@ Temporary suggestions before a solution is chosen:
 - Connecting and splitting wire connections with push connectors instead of the defunct din rail terminal.
 - Instead of using the 12mm to 17mm hex adaptor, stack multiple washers on the outside of the wheel until the screw isn't loose.
 
+Also, the descriptions of each component are not sufficient.
+- What if a link dies or a storepage closes?
+- How would someone in the future know how to source a replacement part.
+- I recommend detailing and documenting every part [here](./detailed_part_inventory.md) 
+
 In the amended design, measures should be taken to secure future buildability (such as using simpler components, or using 3D printing)
 
 ## Assembly instructions.
