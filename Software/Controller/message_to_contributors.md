@@ -26,7 +26,7 @@ I would recommend going in this order.
 - If you don't understand why certain pins are set to high, and others set to low (etc), you have to read the specification sheet of every part you want to interact with. It's not that complicated, they literally just write how the part works and what input/outputs it needs.
 - It does a lot of mathematical things regarding the Hall effect, and technically its only at half efficiency as these motors can give twice as many readings.
 - But you don't really need to know that to modify the code, just know that it works and that it modules the motor speed.
-- If you really want to know about how this works read the wiki of the [motor](http://www.cqrobot.wiki/index.php/DC_Gearmotor_SKU:_CQR37D) 
+- If you really want to know about how the Hall sensing works then read the wiki of the [motor](http://www.cqrobot.wiki/index.php/DC_Gearmotor_SKU:_CQR37D) 
 - Without the Hall effect maths the motors will work FAR worse, try it if you really want to.
 - On top of all this, either the MQTT or BlueTooth interface is used to send ROS2 command strings across networks which are parsed into real low level commands.
 - When in doubt use trail and error or LLMs, but ideally only for explanation purposes because I've found LLMS (in 2025) to be mediocre for low-level C++ like this.
