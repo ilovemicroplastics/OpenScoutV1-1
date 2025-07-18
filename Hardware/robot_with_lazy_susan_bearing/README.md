@@ -15,7 +15,7 @@ These need to be addressed.
 - The specific terminal blocks from the given link have spotty availabilty
 
 Temporary suggestions before a solution is chosen:
-- Connecting and splitting wire connections with push connectors instead of the defunct din rail terminal.
+- Connecting and splitting wire connections with push connectors instead of the din rail terminal if unavailable.
 - Instead of using the 12mm to 17mm hex adaptor, stack multiple washers on the outside of the wheel until the screw isn't loose.
 
 Also, the descriptions of each component are not sufficient.
