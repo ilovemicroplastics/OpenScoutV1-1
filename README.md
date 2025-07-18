@@ -47,6 +47,8 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE) an
     <img src="Documentation/Images/oshw_cert_label.png">
 </p>
 
+## Governance
 
+Aside from following the licenses, after every modification sign off every github page as proof of work/and or liability.
 
 Page last reviewed by: B.K. on 18/07/25
