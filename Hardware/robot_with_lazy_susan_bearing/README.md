@@ -5,7 +5,7 @@ This configuration uses four-wheel differential drive steering, and a Lazy Susan
 
 This section is a summary of parts needed to build the OpenScoutV1.1. For a detailed description of each part see [here](./detailed_part_inventory.md).
 
-## Reviewer note - Known Issues
+## Reviewer notes - Known Issues to be addressed
 
 These need to be addressed.
 
