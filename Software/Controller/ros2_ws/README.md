@@ -17,6 +17,6 @@ publishing #3: geometry_msgs.msg.Twist(linear=geometry_msgs.msg.Vector3(x=1.0, y
 
 ### clarification
 
-This has been made primarily to serve as a demo for further refinement. These commands have been used in Ubuntu Noble. There must be a ESP32 loaded with the MQTT program turned on within the same WiFi network for this to work. Be aware of the fact that there is no timeout or off switch, so be ready to send a 0 command or to pick the robot up if it may hit a wall.
+This has been made primarily to serve as a demo for further refinement. These commands have been used in Ubuntu Noble. There must be a ESP32 loaded with the MQTT program turned on within the same WiFi network for this to work. Be aware of the fact that there is no timeout or off switch, so be ready to send a stop command or to pick the robot up if it may hit a wall.
 
 Page last reviewed by: B.K. on 18/07/25
