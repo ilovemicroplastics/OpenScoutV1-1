@@ -91,6 +91,7 @@ Also, the descriptions of each component are not sufficient.
 - What if a link dies or a storepage closes?
 - How would someone in the future know how to source a replacement part.
 - I recommend detailing and documenting every part [here](./detailed_part_inventory.md), including any plans such as potential 3D printing or local manufacturing blueprint.
+- Some of these links use an amazon link shortener which seemingly has occasional brief outages (or it gets blocked by my browser properties), if they don't work try again a bit later that seems to resolve it.
 
 In the amended design, measures should be taken to secure future buildability (such as using simpler components, or using 3D printing)
 
