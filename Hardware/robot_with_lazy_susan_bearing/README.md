@@ -24,7 +24,7 @@ For the chassis:
 | ---------------------------------|---------:|:---------:|:-------:|:----------:|
 | 300mm 20x20 aluminium extrusion  | 8 |  A1 | [Link](https://ooznest.co.uk/product/v-slot-linear-rail-20x20mm-cut-to-size/) | Good |
 | 200mm 20x20 aluminium extrusion  | 17 | A2 | [Link](https://ooznest.co.uk/product/v-slot-linear-rail-20x20mm-cut-to-size/) | Good |
-| 20x20 Angle Joint Brace Brackets | 48 | B1 | [Link](https://amz.run/5TF6) | Good |
+| 20x20 Angle Joint Brace Brackets | 48 | B1 | [Link](https://amz.run/5TF6) | Dead Link |
 | 90 Degree Cast Corner | 8 | B2 | [Link](https://ooznest.co.uk/product/90-degree-cast-corner/) | Good |
 | 200x340x3mm acrylic sheets | 4 | C1 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) | Good |
 | 240x340x3mm acrylic sheets | 2 | C2 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) | Good |
