@@ -74,7 +74,7 @@ Bolts & nuts:
 
 (**NOTE**: The links are provided only as examples and there is no affiliation with the suppliers. The reader is advised to look for cheaper alternatives if possible, for example ESP32s cost a few USD on aliexpress. The motor brackets are provided in the CQRobot motor package, thus they are not in the bill of materials. Please keep in mind that alternative motors, brackets or components might require different bolts or additional parts.)
 
-## Known Issues
+## Reviewer note - Known Issues
 
 These need to be addressed.
 
