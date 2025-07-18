@@ -3,7 +3,7 @@ This configuration uses four-wheel differential drive steering, and a Lazy Susan
 
 ## Total Build time = 390 minutes (6 hours 30 minutes)
 
-This section is a summary of parts needed to build the OpenScoutV1.1. For a detailed description of each part see [here](./detailed_part_inventory.md)
+This section is a summary of parts needed to build the OpenScoutV1.1. For a detailed description of each part see [here](./detailed_part_inventory.md). Please note that some of these links use an amazon link shortener which has occasional brief outages, if they don't work try again a bit later.
 
 ## Assembly Tools Required
 These are the tools required.
@@ -39,15 +39,15 @@ For the chassis:
 
 
 For the electronics:
-| Material                         | Quantity | Reference | UK link |
-| ---------------------------------|---------:|:---------:|:-------:|
-| 12V Lead Acid battery | 1 | E1 | [Link](https://uk.rs-online.com/web/p/lead-acid-batteries/0597835) |
-| 10A circuit breaker | 1 | E2 | [Link](https://amz.run/5TFI) |
-| Buck converter | 1 | E3 | [Link](https://amz.run/5TFJ) |
-| ESP32 | 1 | E4 | [Link](https://amz.run/9w90) |
-| L298N Motor drivers | 2 | E5 | [Link](https://amz.run/5TFN) |
-| Breadboards | - | - | - |
-| Wires | - | - | - |
+| Material                         | Quantity | Reference | UK link |Availability|
+| ---------------------------------|---------:|:---------:|:-------:|:----------:|
+| 12V Lead Acid battery | 1 | E1 | [Link](https://uk.rs-online.com/web/p/lead-acid-batteries/0597835) | Good |
+| 10A circuit breaker | 1 | E2 | [Link](https://amz.run/5TFI) | Good |
+| Buck converter | 1 | E3 | [Link](https://amz.run/5TFJ) | Good |
+| ESP32 | 1 | E4 | [Link](https://amz.run/9w90) | Good |
+| L298N Motor drivers | 2 | E5 | [Link](https://amz.run/5TFN) | Good |
+| Breadboards | - | - | - | Good |
+| Wires | - | - | - | Good |
 
 
 Bolts & nuts:
