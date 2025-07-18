@@ -1,9 +1,9 @@
-# OpenScout v2
+# OpenScout v1.1
 
 ## An Improved Open Source Hardware Mobile Robot
 OpenScout v2 is a low-cost (approx. 350USD) OSH mobile robot that can be used for both indoor and outdoor tasks, tested up to 6kg of mounted payload. This project builds on the original [OpenScout](https://zenodo.org/doi/10.5281/zenodo.10263675) by reducing it's complexity, integrating it with ROS2, providing a WiFi and BlueTooth interface, as well as introducing a Gazebo simulation for testing. The robot is designed to be simple and easily buildable.
 
-The intended purpose is to function as a reproducible physical platform for robotics research and real-world tasks, replacing existent proprietary options. The OpenScoutV2 offers light offroad capabilities (suitable for a farm or similar), and is a blank slate to attach modules to. It is designed so that a non-technician should be able to build it and attach a less than 6kg scientific (or other) instrument. Example applications include; mounting a camera for autonomous site survey, an actuator for agricultural operations like crop inspection, use in robotics experiments, and autonomous local deliveries in areas covered by WiFi (for example a campus).
+The intended purpose is to function as a reproducible physical platform for robotics research and real-world tasks, replacing existent proprietary options. The OpenScoutV1.1 offers light offroad capabilities (suitable for a farm or similar), and is a blank slate to attach modules to. It is designed so that a non-technician should be able to build it and attach a less than 6kg scientific (or other) instrument. Example applications include; mounting a camera for autonomous site survey, an actuator for agricultural operations like crop inspection, use in robotics experiments, and autonomous local deliveries in areas covered by WiFi (for example a campus).
 
 OpenScout is made from standard sized aluminium extrusions making it modular. That means its chassis design can be varied based on the use case and the needs of the user.
 
