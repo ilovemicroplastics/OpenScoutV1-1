@@ -78,7 +78,7 @@ Bolts & nuts:
 
 These need to be addressed.
 
-- The specific wheel used has fallen out of production (as of writing its still possible to aquire it)
+- The specific wheel used has fallen out of production (as of writing its still possible to aquire it through an unusual website)
 - The original adaptor associated with the wheel is in 3rd party production.
 - Hinge seems to be available from aliexpress still, but it going out of production should be planned for just in case
 - The specific terminal blocks from the given link have spotty availabilty
@@ -125,3 +125,5 @@ Tip: GitHub doesn't load all pages by default, so it may be helpful to download 
 This step is only neccesary if you made significant adjustments to the OpenScout (e.g. length changes)
 
 [PID controller calibration](./pid_calibration.md)
+
+
