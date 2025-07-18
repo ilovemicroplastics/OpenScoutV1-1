@@ -68,4 +68,4 @@ Congratulations! The robot wiring is complete. Follow the last part of the tutor
 
 Page last reviewed by: B.K. on 18/07/25
 
-Notes - I modified this page to fit the new MCU, I think its good but it may need some extra clarity if others find it difficult to follow
+Notes - I modified this page to fit the new MCU, I think its ok but it may need some extra clarity and ideally these picture should be taken again to make the process more seamless. (or if its hard to follow)
