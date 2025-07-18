@@ -64,3 +64,7 @@ This tutorial includes instructions to connect the front and the back compartmen
 
 ## What's next?
 Follow the [acrylic panels](./acrylic_panels.md) tutorial to attach the side and bottom panels on the robot.
+
+Page last reviewed by: B.K. on 18/07/25
+
+Notes - Page is mostly still good, but I don't trust the hinge's availablity (even though its technically obtainable)
