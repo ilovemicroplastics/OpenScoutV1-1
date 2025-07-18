@@ -90,7 +90,7 @@ Temporary suggestions before a solution is chosen:
 Also, the descriptions of each component are not sufficient.
 - What if a link dies or a storepage closes?
 - How would someone in the future know how to source a replacement part.
-- I recommend detailing and documenting every part [here](./detailed_part_inventory.md) 
+- I recommend detailing and documenting every part [here](./detailed_part_inventory.md), including any plans such as potential 3D printing or local manufacturing blueprint.
 
 In the amended design, measures should be taken to secure future buildability (such as using simpler components, or using 3D printing)
 
