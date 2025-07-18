@@ -31,10 +31,10 @@ For the chassis:
 | Lazy Susan 5.5in | 1 | LS | [Link](https://aliexpi.com/ue6m) | Aliexpress |
 | Din rail with terminal blocks | 1 | DT | [Link](https://amz.run/5TFF) | Dead Link |
 | Velcro 50mmx1m | 1 | Q | [Link](https://amz.run/5TFP) | Dead Link |
-| 90:1 12V motor with encoders | 4 | M1 | [Link](https://amz.run/5TFQ) | Dead Link |
+| 90:1 12V motor with encoders | 4 | M1 | [Link](https://thepihut.com/products/metal-dc-geared-motor-w-encoder-12v-122rpm-38kg-cm) | Unverified |
 | Wheels (112x46mm) | 4 | M2 | [Link](https://www.ubuy.co.na/product/4Z24S4Z98-kingval-4pcs-replacement-durable-rc-tyre-tire-wheel-112x46mm-hex-joint-17mm-compatible-with-1-8-off-road-car-buggy-redcat-team-losi-vrx-hpi) | Bad |
-| Wheel Hex Driver 12mm to 17mm | 4 | M3 | [Link](https://amz.run/9w94) | Dead Link |
-| Hex coupler 6mm   | 4 | M4 | [Link](https://amz.run/5TFT) | Dead Link |
+| Wheel Hex Driver 12mm to 17mm | 4 | M3 | [Link]([https://amz.run/9w94](https://www.amazon.co.uk/best-Adapter-Adaptor-Conversion-Accessories/dp/B088NKJJG8)) | Unverified |
+| Hex coupler 6mm   | 4 | M4 | [Link](https://www.amazon.co.uk/uxcell-Coupler-Coupling-Flexible-Connector/dp/B08M3RHY8G?th=1) | Unverified |
 
 
 For the electronics:
