@@ -92,4 +92,5 @@ If everything was followed correctly, the box should look as the reference image
 Follow the [back compartment](./back_compartment.md) tutorial for the back side of the robot.
 
 Page last reviewed by: B.K. on 18/07/25
-notes - The page is not ideal, but it works and isn't the main priority
+
+Notes - The page is not ideal, but it works and isn't the main priority
