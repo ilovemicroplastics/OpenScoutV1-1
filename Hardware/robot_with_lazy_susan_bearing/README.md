@@ -5,6 +5,27 @@ This configuration uses four-wheel differential drive steering, and a Lazy Susan
 
 This section is a summary of parts needed to build the OpenScoutV1.1. For a detailed description of each part see [here](./detailed_part_inventory.md).
 
+## Reviewer note - Known Issues
+
+These need to be addressed.
+
+- The specific wheel used has fallen out of production (as of writing its still possible to aquire it through an unusual website)
+- The original adaptor associated with the wheel is in 3rd party production.
+- Hinge seems to be available from aliexpress still, but it going out of production should be planned for just in case
+- The specific terminal blocks from the given link have spotty availabilty
+
+Temporary suggestions before a solution is chosen:
+- Connecting and splitting wire connections with push connectors instead of the defunct din rail terminal.
+- Instead of using the 12mm to 17mm hex adaptor, stack multiple washers on the outside of the wheel until the screw isn't loose.
+
+Also, the descriptions of each component are not sufficient.
+- What if a link dies or a storepage closes?
+- How would someone in the future know how to source a replacement part.
+- I recommend detailing and documenting every part [here](./detailed_part_inventory.md), including any plans such as potential 3D printing or local manufacturing blueprint.
+- Some of these links use an amazon link shortener which seemingly has occasional brief outages (or it gets blocked by my browser properties), if they don't work try again a bit later that seems to resolve it.
+
+In the amended design, measures should be taken to secure future buildability (such as using simpler components, or using 3D printing)
+
 ## Assembly Tools Required
 These are the tools required.
 
@@ -73,27 +94,6 @@ Bolts & nuts:
 </p>
 
 (**NOTE**: The links are provided only as examples and there is no affiliation with the suppliers. The reader is advised to look for cheaper alternatives if possible, for example ESP32s cost a few USD on aliexpress. The motor brackets are provided in the CQRobot motor package, thus they are not in the bill of materials. Please keep in mind that alternative motors, brackets or components might require different bolts or additional parts.)
-
-## Reviewer note - Known Issues
-
-These need to be addressed.
-
-- The specific wheel used has fallen out of production (as of writing its still possible to aquire it through an unusual website)
-- The original adaptor associated with the wheel is in 3rd party production.
-- Hinge seems to be available from aliexpress still, but it going out of production should be planned for just in case
-- The specific terminal blocks from the given link have spotty availabilty
-
-Temporary suggestions before a solution is chosen:
-- Connecting and splitting wire connections with push connectors instead of the defunct din rail terminal.
-- Instead of using the 12mm to 17mm hex adaptor, stack multiple washers on the outside of the wheel until the screw isn't loose.
-
-Also, the descriptions of each component are not sufficient.
-- What if a link dies or a storepage closes?
-- How would someone in the future know how to source a replacement part.
-- I recommend detailing and documenting every part [here](./detailed_part_inventory.md), including any plans such as potential 3D printing or local manufacturing blueprint.
-- Some of these links use an amazon link shortener which seemingly has occasional brief outages (or it gets blocked by my browser properties), if they don't work try again a bit later that seems to resolve it.
-
-In the amended design, measures should be taken to secure future buildability (such as using simpler components, or using 3D printing)
 
 ## Assembly instructions.
 
