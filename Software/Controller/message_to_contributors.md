@@ -24,7 +24,7 @@ I would recommend going in this order.
 - Be careful with library versions, because some of them had minor syntax changes between versions which can be frustrating source of errors
 - After all that, try understand the program by running through it line by line and making notes
 - If you don't understand why certain pins are set to high, and others set to low (etc), you have to read the specification sheet of every part you want to interact with. It's not that complicated, they literally just write how the part works and what input/outputs it needs.
-- It does a lot of mathematical things regarding the Hall effect, and technically its only at half efficiency as these motors can give twice as many readings.
+- It does a lot of maths regarding the Hall effect, and technically its only at half efficiency as these motors can give twice as many readings.
 - But you don't really need to know that to modify the code, just know that it works and that it modules the motor speed.
 - If you really want to know about how the Hall sensing works then read the wiki of the [motor](http://www.cqrobot.wiki/index.php/DC_Gearmotor_SKU:_CQR37D) 
 - Without the Hall effect maths the motors will work FAR worse, try it if you really want to.
