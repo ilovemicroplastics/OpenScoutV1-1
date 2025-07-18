@@ -18,10 +18,12 @@ Believe me, this ESP32 script seems intimidating, and it genuinely is if you are
 
 I would recommend going in this order.
 - First have a basic understanding of C++ (Chose someone who knows already ideally)
-- Then understand that the ESP32 has certain built in commands which aren't native to C++, such as timers
+- Also, ideally you would have a basic understanding of how electronic circuits work
+- Then understand that the ESP32 has certain built in commands which aren't native to C++, such as timers or input/output pin settings
 - Then understand that the ESP32 has libraries which are developed specifically for it, and they have their own syntax (although its similar to C++)
 - Be careful with library versions, because some of them had minor syntax changes between versions which can be frustrating source of errors
 - After all that, try understand the program by running through it line by line and making notes
+- If you don't understand why certain pins are set to high, and others set to low (etc), you have to read the specification sheet of every part you want to interact with. It's not that complicated, they literally just write how the part works and what input/outputs it needs.
 - It does a lot of mathematical things regarding the Hall effect, and technically its only at half efficiency as these motors can give twice as many readings.
 - But you don't really need to know that to modify the code, just know that it works and that it modules the motor speed.
 - Without the Hall effect maths the motors will work FAR worse, try it if you really want to.
