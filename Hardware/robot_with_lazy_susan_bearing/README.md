@@ -29,7 +29,7 @@ For the chassis:
 | 200x340x3mm acrylic sheets | 4 | C1 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) | Good |
 | 240x340x3mm acrylic sheets | 2 | C2 | [Link](https://www.acrylicsheetcuttosize.co.uk/product/clear-acrylic-sheet/) | Good |
 | Lazy Susan 5.5in | 1 | LS | [Link](https://aliexpi.com/ue6m) | Aliexpress |
-| Din rail with terminal blocks | 1 | DT | [Link](https://amz.run/5TFF) | Good |
+| Din rail with terminal blocks | 1 | DT | [Link](https://amz.run/5TFF) | Dead Link |
 | Velcro 50mmx1m | 1 | Q | [Link](https://amz.run/5TFP) | Good |
 | 90:1 12V motor with encoders | 4 | M1 | [Link](https://amz.run/5TFQ) | Good |
 | Wheels (112x46mm) | 4 | M2 | [Link](https://www.ubuy.co.na/product/4Z24S4Z98-kingval-4pcs-replacement-durable-rc-tyre-tire-wheel-112x46mm-hex-joint-17mm-compatible-with-1-8-off-road-car-buggy-redcat-team-losi-vrx-hpi) | Good |
