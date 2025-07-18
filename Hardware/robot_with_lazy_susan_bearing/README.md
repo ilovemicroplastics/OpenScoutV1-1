@@ -76,18 +76,18 @@ Bolts & nuts:
 
 ## Known Issues
 
-These unexpected issues came up very recently and stem from the fact that the original OpenScout is quite old now.
+These need to be addressed.
 
 - The specific wheel used has fallen out of production (as of writing its still possible to aquire it)
-- The original adaptor associated with the wheel has gone too.
-- Hinge is likely to fall out of production soon
-- The specific terminal blocks may have fallen out of production
+- The original adaptor associated with the wheel is in 3rd party production.
+- Hinge seems to be available from aliexpress still, but it going out of production should be planned for just in case
+- The specific terminal blocks from the given link have spotty availabilty
 
-Replacement components are currently being tested, but as a temporary solution it is still possible to build with the following fixes:
+Temporary suggestions before a solution is chosen:
 - Connecting and splitting wire connections with push connectors instead of the defunct din rail terminal.
 - Instead of using the 12mm to 17mm hex adaptor, stack multiple washers on the outside of the wheel until the screw isn't loose.
 
-In the amended design, measures will be taken to secure future buildability (such as using simpler widely produced electrical components)
+In the amended design, measures should be taken to secure future buildability (such as using simpler components, or using 3D printing)
 
 ## Assembly instructions.
 
