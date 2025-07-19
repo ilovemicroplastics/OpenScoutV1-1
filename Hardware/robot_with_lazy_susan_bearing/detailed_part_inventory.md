@@ -22,9 +22,9 @@
 
 **Description:**
 
-**Availability:**
+**Availability:** The amazon storefront used to buy these goes out of stock very often, making it difficult to aquire new terminal blocks.
 
-**Additional notes:**
+**Additional notes:** There are quite a few other options to consider, they essentially just serve the purpsoe of wire connectors.
 
 #### Segment last reviewed by: B.K. on 19/07/25
 
