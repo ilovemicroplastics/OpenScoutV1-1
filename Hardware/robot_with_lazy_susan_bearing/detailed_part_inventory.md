@@ -62,6 +62,20 @@ I'm not sure what to comment on regarding long term planning as MCUs are almost 
 
 #### Segment last reviewed by: B.K. on 19/07/25
 
+# Velcro
+
+(Picture needed)
+
+**Priority:** Low
+
+**Description:**
+
+**Availability:** Bad, dead amazon link. New source is needed.
+
+**Additional notes:**
+
+#### Segment last reviewed by: B.K. on 19/07/25
+
 # 20x20 aluminium extrusion
 
 (Picture needed)
@@ -113,20 +127,6 @@ I'm not sure what to comment on regarding long term planning as MCUs are almost 
 **Description:**
 
 **Availability:**
-
-**Additional notes:**
-
-#### Segment last reviewed by: B.K. on 19/07/25
-
-# Velcro
-
-(Picture needed)
-
-**Priority:** Low
-
-**Description:**
-
-**Availability:** Bad, dead amazon link. New source is needed.
 
 **Additional notes:**
 
