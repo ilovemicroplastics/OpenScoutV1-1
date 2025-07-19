@@ -21,12 +21,13 @@ I would recommend going in this order.
 - Then understand that the ESP32 has libraries which are developed specifically for it, and they have their own syntax (although its similar to C++). The MQTT broker used is a library for example.
 - Be careful with library versions, because some of them have minor syntax changes between versions which can be a frustrating source of errors when trying to find the correct syntax
 - After all that, try understand the program by running through it line by line and making notes
-- If you don't understand why certain pins are set to high, and others set to low (etc), you have to read the specification sheet of every part you want to interact with. It's not that complicated, they literally just write how the part works and what input/outputs it needs.
+- If you don't understand why certain pins are set to high, and others set to low (etc), you have to read the specification sheet of every part you want to interact with. It's not that complicated, manufacturers literally just write how the part works and what input/outputs it needs.
 - It does a lot of maths regarding the Hall effect, and technically its only at half efficiency as these motors can give twice as many readings.
-- But you don't really need to know that to modify the code, just know that it works and that it modules the motor speed.
+- But you don't really need to know that to modify the code, just know that it works and that it modulates the motor speed.
 - If you really want to know about how the Hall sensing works then read the wiki of the [motor](http://www.cqrobot.wiki/index.php/DC_Gearmotor_SKU:_CQR37D) 
-- Without the Hall effect maths the motors will work FAR worse, try it if you really want to.
-- On top of all this, either the MQTT or BlueTooth interface is used to send ROS2 command strings across networks which are parsed into real low level commands.
+- Without the Hall effect maths the motors will work FAR worse, try it if you wish.
+- On top of all this the MQTT  interface is used to send ROS2 command strings across networks which are parsed into real low level commands.
+- The Bluetooth variant is simpler, it uses CLI. Bluetooth is a seperate program because the MQTT and Bluetooth library together take up too much space on the ESP32
 - When in doubt use trail and error or LLMs, but ideally only for explanation purposes because I've found LLMS (in 2025) to be mediocre for low-level C++ like this.
 - If it doesn't make sense read all this again.
 - Make the changes you need to.
