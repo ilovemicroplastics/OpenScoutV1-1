@@ -50,7 +50,15 @@ I'm not sure what to comment on regarding long term planning as MCUs are almost 
 
 # 20x20 aluminium extrusion
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Picture needed
+
+**Priority:** Low
+
+**Description:**
+
+**Availability:**
+
+**Additional notes:**
 
 #### Segment last reviewed by: B.K. on 19/07/25
 
