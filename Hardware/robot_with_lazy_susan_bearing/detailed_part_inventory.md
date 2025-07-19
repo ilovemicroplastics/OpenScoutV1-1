@@ -58,7 +58,7 @@ The "ESP32-CH340C Type-C" wasn't chosen out of any technical reason, other than 
 
 **Additional notes:** If you happen to have one of these third-party ESP32s you are better off finding out which pin does what by comparing it to the core designs, looking at the labels, and trial and error. Ultimately it shouldn't make much of a difference as all these ESP32s generally do almost the same thing, just they might have slightly different dimensions or pin configurations. In the future it may be worth switching the OpenScout design to a ESP32 model actually produced by ESPRESSIF as opposed to the current third-party one, especially if its a newer model which is planned for long term production (you can check this on the ESPRESSIF website).
 
-MCUs are almost impossible to produce locally, I suppose this part might be an exception where its acceptable to update it as a OpenScout version ages, since it shouldn't change the properties aside from having better compute.
+MCUs are almost impossible to produce locally, I suppose this part might be an exception where its acceptable to update it as an OpenScout version ages, since it shouldn't change the properties aside from having better compute. Alternatively, the OpenScout definition could be permissive with the MCU. For example something like "An MCU which fulfills these requirements", but then there would be a recommended chip with available firmware.
 
 #### Segment last reviewed by: B.K. on 19/07/25
 
