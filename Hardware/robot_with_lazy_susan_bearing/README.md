@@ -72,21 +72,21 @@ For the electronics:
 
 
 Bolts & nuts:
-| Material                         | Quantity | Reference | UK link |Availability|
-| ---------------------------------|---------:|:---------:|:-------:|:----------:|
-| Sems screw 6mm (More info needed) | 16 | P4.6 | - |Assumed Good|
-| Sems screw 8mm (More info needed) | 8 | P4.8 | - |Assumed Good|
-| M4 8mm socket screw | 2 | S4.8 | - |Assumed Good|
-| M4 10mm socket screw | 8 | S4.10 | - |Assumed Good|
-| M4 12mm socket screw (More info needed) | 4 | S4.12 | - |Assumed Good|
-| M4 16mm socket screw (More info needed) | 4 | S4.16  | - |Assumed Good|
-| M4 30mm socket screw | 4 | S4.30 | - |Assumed Good|
-| M5 10mm socket screw | 144 | S5.10 | - |Assumed Good|
-| M4 T-slot nuts | 10 | T4 | - |Assumed Good|
-| M5 T-slot nuts | 144 | T5 | - |Assumed Good|
-| M4 Hex nuts | 12 | N1 | - |Assumed Good|
-| M4 Hammer nuts (More info needed)| 8 | N2 | - |Assumed Good|
-| M5 Washers | 170 | N3 | - |Assumed Good|
+| Material                         | Quantity | Reference |Availability|
+| ---------------------------------|---------:|:---------:|:----------:|
+| Sems screw 6mm (More info needed) | 16 | P4.6 |Assumed Good|
+| Sems screw 8mm (More info needed) | 8 | P4.8 |Assumed Good|
+| M4 8mm socket screw | 2 | S4.8 |Assumed Good|
+| M4 10mm socket screw | 8 | S4.10 |Assumed Good|
+| M4 12mm socket screw (More info needed) | 4 | S4.12 |Assumed Good|
+| M4 16mm socket screw (More info needed) | 4 | S4.16  |Assumed Good|
+| M4 30mm socket screw | 4 | S4.30 |Assumed Good|
+| M5 10mm socket screw | 144 | S5.10 |Assumed Good|
+| M4 T-slot nuts | 10 | T4 |Assumed Good|
+| M5 T-slot nuts | 144 | T5 |Assumed Good|
+| M4 Hex nuts | 12 | N1 |Assumed Good|
+| M4 Hammer nuts (More info needed)| 8 | N2 |Assumed Good|
+| M5 Washers | 170 | N3 |Assumed Good|
 
 
 <p float="left">
