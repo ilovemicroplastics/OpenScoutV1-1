@@ -72,7 +72,7 @@ MCUs are almost impossible to produce locally, I suppose this part might be an e
 
 **Availability:** Bad, dead amazon link. New source is needed.
 
-**Additional notes:**
+**Additional notes:** Until the above mentioned wheel issue is resolved, whether the battery is lose or not doesn't matter.
 
 #### Segment last reviewed by: B.K. on 19/07/25
 
