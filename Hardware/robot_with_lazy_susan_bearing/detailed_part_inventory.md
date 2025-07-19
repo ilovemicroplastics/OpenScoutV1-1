@@ -19,6 +19,7 @@ The hinge isn't technically out of stock, but it's availablity has been spotty. 
   <img src="../../Documentation/Images/esp32.jpg" title="ESP32" width="300"/>
 </p>
 
+The particular ESP32 which the OpenScoutV1.1 was designed with what is called the "[ESP32-CH340C Type-C](https://amz.run/9w90)", which means that it's a generic ESP32 with a CH340C chip and a Type-C connector.
 
 Page last reviewed by: B.K. on 18/07/25
 
