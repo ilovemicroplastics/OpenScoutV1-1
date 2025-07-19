@@ -4,7 +4,7 @@
   <img src="../../Documentation/Images/wheel.PNG" title="wheels without hex adaptor" width="256"/>
 </p>
 
-**Priority:** Critical
+**Priority:** Very High
 
 **Description:** The 112x46mm wheel, 6mm hex coupler and 12mm to 17mm hex wheel driver are the parts which contact the ground. The other two are supposed to firmly attach the wheel to the motor axle. The wheel has an almost flat rubber tread, which is important because this is a skid-steer robot.
 
