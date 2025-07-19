@@ -17,7 +17,11 @@
   <img src="../../Documentation/Images/hinge.PNG" title="hinge" width="300"/>
 </p>
 
-The hinge isn't technically out of stock, but it's availablity has been spotty. It seems to be available on aliexpress but western online stores can be hit or miss. This hinge comes in multiple size variants, although 5.5in is used for the OpenScoutV1.1. Occasionally stores will refer to it as a "Lazy Susan". If this particular design does come out of production it should be easy to replace it as there are many similar hinges online, its just that the CAD files for the plastic plates where the hinge meets would need to be redesigned to fit the new screw locations. This would work, but once again it's not a permanent solution. The ideal solution would be reproducible locally forever, admittedly that's difficult with a hinge but maybe there is a solution. 
+**Description:** The hinge is the mobile part which connects the "front" and "back" frames to each other. It can do a full rotation and is made from metal. This particular hinge comes in multiple size variants, although 5.5in is used for the OpenScoutV1.1. Occasionally stores will refer to it as a "Lazy Susan".
+
+**Availability:** The hinge isn't technically out of stock, but it's availablity has been spotty. It seems to be available on aliexpress but western online stores can be hit or miss.
+
+**Additional notes:** If this particular design does come out of production it should be easy to replace it as there are many similar hinges online, its just that the CAD files for the plastic plates where the hinge meets would need to be redesigned to fit the new screw locations. This would work, but once again it's not a permanent solution. The ideal solution would be reproducible locally forever, admittedly that's difficult with a hinge but maybe there is a solution. 
 
 #### Segment last reviewed by: B.K. on 19/07/25
 
