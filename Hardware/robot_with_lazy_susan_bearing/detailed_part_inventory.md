@@ -76,6 +76,189 @@ I'm not sure what to comment on regarding long term planning as MCUs are almost 
 
 #### Segment last reviewed by: B.K. on 19/07/25
 
+# 90 Degree Cast Corner
+
+(Picture needed)
+
+**Priority:** Low
+
+**Description:**
+
+**Availability:**
+
+**Additional notes:**
+
+#### Segment last reviewed by: B.K. on 19/07/25
+
+# 3mm acrylic sheet
+
+(Picture needed)
+
+**Priority:** Low
+
+**Description:**
+
+**Availability:**
+
+**Additional notes:**
+
+#### Segment last reviewed by: B.K. on 19/07/25
+
+# Din rail with terminal blocks
+
+(Picture needed)
+
+**Priority:** Medium
+
+**Description:**
+
+**Availability:**
+
+**Additional notes:**
+
+#### Segment last reviewed by: B.K. on 19/07/25
+
+# Velcro
+
+(Picture needed)
+
+**Priority:** Low
+
+**Description:**
+
+**Availability:** Bad, dead amazon link. New source is needed.
+
+**Additional notes:**
+
+#### Segment last reviewed by: B.K. on 19/07/25
+
+# 90:1 12V motor with encoders
+
+(Picture needed)
+
+**Priority:** Low
+
+**Description:** This CQRobot motor has a helpful [wiki page](http://www.cqrobot.wiki/index.php/DC_Gearmotor_SKU:_CQR37D).
+
+**Availability:**
+
+**Additional notes:**
+
+#### Segment last reviewed by: B.K. on 19/07/25
+
+# 12V Lead Acid battery
+
+(Picture needed)
+
+**Priority:** Low
+
+**Description:**
+
+**Availability:**
+
+**Additional notes:**
+
+#### Segment last reviewed by: B.K. on 19/07/25
+
+# 10A circuit breaker
+
+(Picture needed)
+
+**Priority:** Low
+
+**Description:**
+
+**Availability:**
+
+**Additional notes:**
+
+#### Segment last reviewed by: B.K. on 19/07/25
+
+# 5V Buck converter
+
+(Picture needed)
+
+**Priority:** Low
+
+**Description:**
+
+**Availability:**
+
+**Additional notes:**
+
+#### Segment last reviewed by: B.K. on 19/07/25
+
+# L298N Motor drivers
+
+(Picture needed)
+
+**Priority:** Low
+
+**Description:**
+
+**Availability:**
+
+**Additional notes:**
+
+#### Segment last reviewed by: B.K. on 19/07/25
+
+# Breadboard
+
+(Picture needed)
+
+**Priority:** Low
+
+**Description:**
+
+**Availability:**
+
+**Additional notes:**
+
+#### Segment last reviewed by: B.K. on 19/07/25
+
+# Wires
+
+(Picture needed)
+
+**Priority:** Low
+
+**Description:**
+
+**Availability:**
+
+**Additional notes:**
+
+#### Segment last reviewed by: B.K. on 19/07/25
+
+# M2/3/4/5 Hex Key
+
+(Picture needed)
+
+**Priority:** Low
+
+**Description:**
+
+**Availability:**
+
+**Additional notes:**
+
+#### Segment last reviewed by: B.K. on 19/07/25
+
+# Small Flathead and Head Screwdriver
+
+(Picture needed)
+
+**Priority:** Low
+
+**Description:**
+
+**Availability:**
+
+**Additional notes:**
+
+#### Segment last reviewed by: B.K. on 19/07/25
+
+
 #### Page last reviewed by: B.K. on 19/07/25
 
 Notes - I can't do this fully due to practical limitations, but I recommend this page be used to detail what each part is exactly with pictures, blueprints, and specification; just in case links to buy them go offline. This could also be a place to store notes about plans of how each part is going to be replaced to increase the ability to build the robot locally.
