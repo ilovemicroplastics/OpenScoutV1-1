@@ -50,7 +50,7 @@ I'm not sure what to comment on regarding long term planning as MCUs are almost 
 
 # 20x20 aluminium extrusion
 
-Picture needed
+(Picture needed)
 
 **Priority:** Low
 
