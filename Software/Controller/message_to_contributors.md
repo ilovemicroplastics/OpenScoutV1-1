@@ -29,7 +29,7 @@ I would recommend going in this order.
 - On top of all this the MQTT  interface is used to send ROS2 command strings across networks which are parsed into real low level commands.
 - The Bluetooth variant is simpler, it uses simple CLI to control the robot. Bluetooth is a seperate program because the MQTT and Bluetooth library together take up too much space on the ESP32
 - When in doubt use trail and error or LLMs, but ideally only for explanation purposes because I've found LLMs (in 2025) to be mediocre for low-level C++ like this.
-- If it doesn't make sense read all this again.
+- If it doesn't make sense read all this again, and or take a break.
 - Make the changes you need to.
 
 If you can understand all this you earned your low-level programming wizard hat, congratulations.
