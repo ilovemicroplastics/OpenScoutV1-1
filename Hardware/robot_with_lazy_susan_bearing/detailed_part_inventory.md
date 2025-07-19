@@ -72,7 +72,7 @@ MCUs are almost impossible to produce locally, I suppose this part might be an e
 
 **Availability:** Bad, dead amazon link. New source is needed.
 
-**Additional notes:** Until the above mentioned wheel issue is resolved, whether the battery is loose or not doesn't matter. Although it's a really easy fix.
+**Additional notes:** Until the above mentioned wheel issue is resolved, whether the battery is loose or not doesn't matter. Although the velcro availability issue is trivial to fix.
 
 #### Segment last reviewed by: B.K. on 19/07/25
 
