@@ -18,7 +18,7 @@ I would recommend going in this order.
 - First have a basic understanding of C++ (Chose someone who knows already ideally)
 - Also, ideally you would have a basic understanding of how electronic circuits work
 - Then understand that the ESP32 has certain built in commands which aren't native to C++, such as timers or input/output pin settings
-- Then understand that the ESP32 has libraries which are developed specifically for it, and they have their own syntax (although its similar to C++)
+- Then understand that the ESP32 has libraries which are developed specifically for it, and they have their own syntax (although its similar to C++). The MQTT broker used is a library for example.
 - Be careful with library versions, because some of them had minor syntax changes between versions which can be frustrating source of errors
 - After all that, try understand the program by running through it line by line and making notes
 - If you don't understand why certain pins are set to high, and others set to low (etc), you have to read the specification sheet of every part you want to interact with. It's not that complicated, they literally just write how the part works and what input/outputs it needs.
