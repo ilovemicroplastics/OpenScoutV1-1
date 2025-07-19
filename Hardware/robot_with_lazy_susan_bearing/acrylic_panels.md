@@ -37,6 +37,6 @@ This tutorial includes instructions to laser-cut and fit the bare minimum acryli
 
 Follow the [din rail](./din_rail.md) tutorial to connect the front and the back compartment.
 
-Page last reviewed by: B.K. on 18/07/25
+#### Page last reviewed by: B.K. on 19/07/25
 
 Notes - Simple page, still good
