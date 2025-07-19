@@ -32,8 +32,6 @@ I would recommend going in this order.
 - If it doesn't make sense read all this again, and or take a break.
 - Make the changes you need to.
 
-If you can understand all this you earned your low-level programming wizard hat, congratulations.
-
-Good luck.
+Have fun
 
 #### B.K. - 19/07/2025
