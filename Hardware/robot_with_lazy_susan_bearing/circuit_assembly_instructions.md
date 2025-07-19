@@ -66,6 +66,6 @@ This tutorial provides instructions for wiring together the electronic component
 ## What's next?
 Congratulations! The robot wiring is complete. Follow the last part of the tutorial series to [flash the software](../../Software/Controller/README.md).
 
-Page last reviewed by: B.K. on 18/07/25
+#### Page last reviewed by: B.K. on 19/07/25
 
 Notes - I modified this page to fit the new MCU, I think its ok but it may need some extra clarity and ideally these picture should be taken again to make the process more seamless. (or if its hard to follow)
