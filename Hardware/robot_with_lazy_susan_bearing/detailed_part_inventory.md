@@ -50,13 +50,13 @@
 
 **Priority:** Low
 
-**Description:** ESP32 refers to a variety of different chips which do almost the same thing, but not quite. The particular ESP32 which the OpenScoutV1.1 was designed with can be called the "[ESP32-CH340C Type-C](https://amz.run/9w90)", which means that it's a generic ESP32 with a CH340C chip and a Type-C connector. The manufacturer is [ESPRESSIF website](https://www.espressif.com/en/products/socs/esp32)), however there are many third party produced variants on the market. They generally work the same but have some small differences; for example some of the pin locations/functions are different to the ESP32s produced directly be ESPRESSIF.
+**Description:** ESP32 refers to a variety of different chips which do almost the same thing, but not quite. The particular ESP32 which the OpenScoutV1.1 was designed with can be called the "[ESP32-CH340C Type-C](https://amz.run/9w90)", which means that it's a generic ESP32 with a CH340C chip and a Type-C connector. The manufacturer is [ESPRESSIF website](https://www.espressif.com/en/products/socs/esp32)), however there are many third-party produced variants on the market. They generally work the same but have some small differences; for example some of the pin locations/functions are different to the ESP32s produced directly be ESPRESSIF.
 
 The "ESP32-CH340C Type-C" wasn't chosen out of any technical reason, other than the fact that an ESP32 was needed quickly and amazon had 1 day shipping as opposed to the month+ wait from AliExpress. 
 
 **Availability:** Good.
 
-**Additional notes:** If you happen to have one of these third party ESP32s you are better off finding out which pin does what by comparing it to the core designs, looking at the labels, and trial and error. Ultimately it shouldn't make much of a difference as all these ESP32s generally do almost the same thing, just they might have slightly different dimensions or pin configurations. In the future it may be worth switching the OpenScout design to a ESP32 model actually produced by ESPRESSIF as opposed to the current third party one, especially if its a newer model which is planned for long term production (you can check this on the ESPRESSIF website).
+**Additional notes:** If you happen to have one of these third-party ESP32s you are better off finding out which pin does what by comparing it to the core designs, looking at the labels, and trial and error. Ultimately it shouldn't make much of a difference as all these ESP32s generally do almost the same thing, just they might have slightly different dimensions or pin configurations. In the future it may be worth switching the OpenScout design to a ESP32 model actually produced by ESPRESSIF as opposed to the current third-party one, especially if its a newer model which is planned for long term production (you can check this on the ESPRESSIF website).
 
 I'm not sure what to comment on regarding long term planning as MCUs are almost impossible to produce locally, I suppose this part might be an exception where its acceptable to update it as a OpenScout version ages, since it shouldn't change the properties aside from having better compute.
 
