@@ -6,6 +6,8 @@ The wheel, and the parts connecting it to the axel (Hex coupler, Hex Wheel drive
   <img src="../../Documentation/Images/hinge.PNG" title="hinge" width="200"/>
 </p>
 
+The hinge isn't technically out of stock, but it's availablity has been spotty. It seems to be available on aliexpress but western online stores can be hit or miss. This hinge comes in multiple size variants, although 5.5in is used for the OpenScoutV1.1. Occasionally stores will refer to it as a "Lazy Susan". If this particular design does come out of production it should be easy to replace it as there are many similar hinges online, its just that the CAD files for the plastic plates where the hinge meets would need to be redesigned to fit the new screw locations. This would work, but once again it's not a permanent solution. The ideal solution would be reproducible locally forever, admittedly that's difficult with a hinge but maybe there is a solution. 
+
 Page last reviewed by: B.K. on 18/07/25
 
 Notes - I can't do this fully due to practical limitations, but I recommend this page be used to detail what each part is exactly with pictures and blueprints, just in case links to buy them go offline. This could also be a place to store notes about plans of how each part is going to be replaced to increase the ability to build the robot locally.
