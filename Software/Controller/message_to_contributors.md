@@ -27,7 +27,7 @@ I would recommend going in this order.
 - If you really want to know about how the Hall sensing works then read the wiki of the [motor](http://www.cqrobot.wiki/index.php/DC_Gearmotor_SKU:_CQR37D) 
 - Without the Hall effect maths the motors will work FAR worse, try it if you wish.
 - On top of all this the MQTT  interface is used to send ROS2 command strings across networks which are parsed into real low level commands.
-- The Bluetooth variant is simpler, it uses CLI. Bluetooth is a seperate program because the MQTT and Bluetooth library together take up too much space on the ESP32
+- The Bluetooth variant is simpler, it uses simple CLI to control the robot. Bluetooth is a seperate program because the MQTT and Bluetooth library together take up too much space on the ESP32
 - When in doubt use trail and error or LLMs, but ideally only for explanation purposes because I've found LLMS (in 2025) to be mediocre for low-level C++ like this.
 - If it doesn't make sense read all this again.
 - Make the changes you need to.
