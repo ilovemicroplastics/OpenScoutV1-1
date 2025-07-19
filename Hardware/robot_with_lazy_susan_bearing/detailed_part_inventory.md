@@ -62,6 +62,20 @@ I'm not sure what to comment on regarding long term planning as MCUs are almost 
 
 #### Segment last reviewed by: B.K. on 19/07/25
 
+# 20x20 Angle Joint Brace Brackets
+
+(Picture needed)
+
+**Priority:** Low
+
+**Description:**
+
+**Availability:**
+
+**Additional notes:**
+
+#### Segment last reviewed by: B.K. on 19/07/25
+
 #### Page last reviewed by: B.K. on 19/07/25
 
 Notes - I can't do this fully due to practical limitations, but I recommend this page be used to detail what each part is exactly with pictures, blueprints, and specification; just in case links to buy them go offline. This could also be a place to store notes about plans of how each part is going to be replaced to increase the ability to build the robot locally.
