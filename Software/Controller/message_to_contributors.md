@@ -12,7 +12,7 @@ Therefore this isn't a direct ROS2 implementation, but more like a ROS2 implemen
 
 This was done as a workaround to the 1.3MB of memory contained, and the program maxes it out.
 
-Believe me, this ESP32 script seems intimidating, and it genuinely is if you aren't primed properly.
+This ESP32 script seems intimidating, but its not that bad once you get into it.
 
 I would recommend going in this order.
 - First have a basic understanding of C++ (Chose someone who knows already ideally)
