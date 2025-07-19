@@ -4,7 +4,7 @@
   <img src="../../Documentation/Images/wheel.PNG" title="wheels without hex adaptor" width="256"/>
 </p>
 
-**Description:** The wheel, hex coupler and hex wheel driver are the parts which contact the ground. The other two are supposed to firmly attach the wheel to the axle.
+**Description:** The wheel, hex coupler and hex wheel driver are the parts which contact the ground. The other two are supposed to firmly attach the wheel to the motor axle.
 
 **Availablity:** The wheel is out of production. The traditional hex wheel driver amazon link is dead. The hex coupler is currently sourced from an alternative amazon store page which is produced by a 3rd party (The original manufacturer was KingVal).
 
