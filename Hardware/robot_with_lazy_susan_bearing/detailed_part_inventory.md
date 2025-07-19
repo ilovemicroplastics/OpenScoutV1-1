@@ -3,7 +3,7 @@ The wheel, and the parts connecting it to the axel (Hex coupler, Hex Wheel drive
 
 # Hinge
 <p float="left">
-  <img src="../../Documentation/Images/hinge.png" title="hinge" width="200"/>
+  <img src="../../Documentation/Images/hinge.PNG" title="hinge" width="200"/>
 </p>
 
 Page last reviewed by: B.K. on 18/07/25
