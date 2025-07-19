@@ -14,6 +14,20 @@
 
 #### Segment last reviewed by: B.K. on 19/07/25
 
+# Din rail with terminal blocks
+
+(Picture needed)
+
+**Priority:** Medium
+
+**Description:**
+
+**Availability:**
+
+**Additional notes:**
+
+#### Segment last reviewed by: B.K. on 19/07/25
+
 # Hinge
 <p float="left">
   <img src="../../Documentation/Images/hinge.PNG" title="hinge" width="300"/>
@@ -95,20 +109,6 @@ I'm not sure what to comment on regarding long term planning as MCUs are almost 
 (Picture needed)
 
 **Priority:** Low
-
-**Description:**
-
-**Availability:**
-
-**Additional notes:**
-
-#### Segment last reviewed by: B.K. on 19/07/25
-
-# Din rail with terminal blocks
-
-(Picture needed)
-
-**Priority:** Medium
 
 **Description:**
 
