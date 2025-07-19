@@ -6,7 +6,7 @@
 
 **Priority:** Critical
 
-**Description:** The wheel, hex coupler and hex wheel driver are the parts which contact the ground. The other two are supposed to firmly attach the wheel to the motor axle.
+**Description:** The 112x46mm wheel, 6mm hex coupler and 12mm to 17mm hex wheel driver are the parts which contact the ground. The other two are supposed to firmly attach the wheel to the motor axle. The wheel has an almost flat rubber tread, which is important because this is a skid-steer robot.
 
 **Availability:** The wheel is no longer being produced. The traditional hex wheel driver amazon link is dead. The hex coupler is currently sourced from an alternative amazon store page which is produced by a 3rd party (The original manufacturer was KingVal).
 
@@ -21,7 +21,7 @@
 
 **Priority:** Low-Mid
 
-**Description:** The hinge is the mobile part which connects the "front" and "back" frames to each other. It can do a full rotation and is made from metal. This particular hinge comes in multiple size variants, although 5.5in is used for the OpenScoutV1.1. Occasionally stores will refer to it as a "Lazy Susan".
+**Description:** The 5.5in metal hinge is the mobile part which connects the "front" and "back" frames to each other. It can do a full rotation. This particular hinge comes in multiple size variants, although 5.5in is used for the OpenScoutV1.1. Occasionally stores will refer to it as a "Lazy Susan".
 
 **Availability:** The hinge isn't technically out of stock, but it's availablity has been spotty. It seems to be available on aliexpress but western online stores can be hit or miss.
 
