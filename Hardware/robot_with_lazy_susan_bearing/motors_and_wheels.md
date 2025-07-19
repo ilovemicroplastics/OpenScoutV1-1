@@ -66,6 +66,6 @@ One the other hand, the wheels selection wasn't very sophisticated, and soon the
 ## What's next?
 Congratulations! The robot chassis is complete. Follow the [adding the electronics](./circuit_assembly_instructions.md) tutorial to proceed with the wiring.
 
-Page last reviewed by: B.K. on 18/07/25
+#### Page last reviewed by: B.K. on 19/07/25
 
 Notes - this page needs adjustment, these wheels are not available anymore. Ideally they would be produced locally, for example by 3D printing or some other creative method.
