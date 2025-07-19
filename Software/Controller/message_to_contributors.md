@@ -4,8 +4,6 @@ This is a message to anyone attempting to modify the ESP32 program, its very muc
 
 This MQTT script might be a little confusing.
 
-Admittedly it's not the highest quality code, and there is room for optimisation.
-
 It's essentially a normal MCU robot controller, which has a MQTT broker built in.
 
 The MQTT broker receives certain preprogramed ROS2 topics, and parses them to calculate the movement command.
