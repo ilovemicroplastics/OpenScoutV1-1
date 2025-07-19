@@ -37,6 +37,6 @@ The din rail (DT) consists of a holed metal with some terminal blocks (red & whi
 ## What's next?
 Follow the [attaching motors and wheels](./motors_and_wheels.md) tutorial to complete the chassis of the robot.
 
-Page last reviewed by: B.K. on 18/07/25
+#### Page last reviewed by: B.K. on 19/07/25
 
 Notes - It technically will work, but needs to be modified to fit the circuit diagram. That is to say some of these din rails aren't needed anymore, only 1 or 2 are in use. Also because of their spotty availablity it might be worth assessing alternatives.
