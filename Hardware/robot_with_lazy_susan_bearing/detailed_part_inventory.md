@@ -14,7 +14,7 @@
 
 #### Segment last reviewed by: B.K. on 19/07/25
 
-# Din rail with terminal blocks
+# Din rail terminal blocks
 
 (Picture needed)
 
