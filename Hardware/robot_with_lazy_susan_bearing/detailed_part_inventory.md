@@ -50,7 +50,7 @@
 
 **Priority:** Low
 
-**Description:** ESP32 refers to a variety of different chips which do almost the same thing, but not quite. The particular ESP32 which the OpenScoutV1.1 was designed with can be called the "[ESP32-CH340C Type-C](https://amz.run/9w90)", which means that it's a generic ESP32 with a CH340C chip and a Type-C connector. The manufacturer is [ESPRESSIF website](https://www.espressif.com/en/products/socs/esp32)), however there are many third-party produced variants on the market. They generally work the same but have some small differences; for example some of the pin locations/functions are different to the ESP32s produced directly be ESPRESSIF.
+**Description:** ESP32 refers to a variety of different chips which do almost the same thing, but not quite. The particular ESP32 which the OpenScoutV1.1 was designed with can be called the "[ESP32-CH340C Type-C](https://amz.run/9w90)", which means that it's a generic ESP32 with a CH340C chip and a Type-C connector. The manufacturer is [ESPRESSIF](https://www.espressif.com/en/products/socs/esp32)), however there are many third-party produced variants on the market. They generally work the same but have some small differences; for example some of the pin locations/functions are different to the ESP32s produced directly be ESPRESSIF.
 
 The "ESP32-CH340C Type-C" wasn't chosen out of any technical reason, other than the fact that an ESP32 was needed quickly and amazon had 1 day shipping as opposed to the month+ wait from AliExpress. 
 
