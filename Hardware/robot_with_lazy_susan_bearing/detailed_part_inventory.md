@@ -37,7 +37,7 @@
 
 **Description:** The 5.5in metal rotary joint is a mobile part which connects the "front" and "back" frames to each other. It can do a full rotation. This particular rotary joint comes in multiple size variants, although 5.5in is used for the OpenScoutV1.1. Occasionally stores will refer to it as a "Lazy Susan".
 
-**Availability:** The rotary joint isn't technically out of stock, but it's availablity has been spotty. It seems to be available on aliexpress but western online stores can be hit or miss.
+**Availability:** The rotary joint isn't technically out of stock, but it's availablity has been spotty. It seems to be available on aliexpress but western online stores can be hit or miss. Searching for the item on the websites themselves seems to be less useful than searching "5.5inch Heavy Duty Galvanized Lazy Susan" into a search engine. 
 
 **Additional notes:** If this particular design does come out of production it should be easy to replace it as there are many similar rotary joints online, its just that the CAD files for the plastic plates where the rotary joint meets would need to be redesigned to fit the new screw locations. This would work, but once again it's not a permanent solution. The ideal solution would be reproducible locally forever, admittedly that's difficult with a rotary joint but maybe there is a solution. 
 
