@@ -12,7 +12,9 @@
 
 **Additional notes:** This is a critical shortage which prevents anyone who doesn't already own these parts from building the OpenScoutV1.1. As such, they have to be replaced one way or another. Rather than finding a new commercial part, it is highly recommended to find a design or to design a wheel which can be produced locally with low or little skill. 3D printing comes to mind as it's a good way to make a part which can be reproduced forever, but if a better wheel solution is found so be it. Maybe it's easier to make the wheel out of cut acrylic and rubber tape? Ultimately it comes down to what works in practice and that's hard to predict.
 
-#### Segment last reviewed by: B.K. on 19/07/25
+A very good example of such a wheel is a [MIT-License "Mars Rover"'s wheel](https://github.com/jakkra/Mars-Rover?tab=readme-ov-file). Because that project is MIT and the CAD files are open, the exact same wheel could be printed for the OpenScout. Although I would like to make sure proper credit is given, and that the tread is properl suited to a skid steer robot. Also, a fitting would have to be designed to attach the wheel to a motor shaft.
+
+#### Segment last reviewed by: B.K. on 24/07/25
 
 # Din rail terminal blocks
 
